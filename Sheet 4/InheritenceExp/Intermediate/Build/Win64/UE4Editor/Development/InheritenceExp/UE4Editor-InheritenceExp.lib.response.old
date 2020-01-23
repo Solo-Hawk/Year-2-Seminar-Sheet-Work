@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-InheritenceExp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\InheritenceExpEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\BaseMonster.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\GreyDemon.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\InheritenceExp.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\InheritenceExpGameModeBase.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\MyBaseMonster.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\RedDemon.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\BaseMonster.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\GreyDemon.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\InheritenceExp.init.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\InheritenceExpGameModeBase.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\MyBaseMonster.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\RedDemon.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\Default.rc2.res"
+/OUT:"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\UE4Editor-InheritenceExp.lib"
+/INCLUDE:IMPLEMENT_MODULE_InheritenceExp

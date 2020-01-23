@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ButtonExp.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 2\ButtonExp\Intermediate\Build\Win64\ButtonExpEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 2\ButtonExp\Intermediate\Build\Win64\UE4Editor\Development\ButtonExp\ButtonExp.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 2\ButtonExp\Intermediate\Build\Win64\UE4Editor\Development\ButtonExp\ButtonExpGameModeBase.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 2\ButtonExp\Intermediate\Build\Win64\UE4Editor\Development\ButtonExp\ButtonExp.init.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 2\ButtonExp\Intermediate\Build\Win64\UE4Editor\Development\ButtonExp\ButtonExpGameModeBase.gen.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 2\ButtonExp\Intermediate\Build\Win64\UE4Editor\Development\ButtonExp\Default.rc2.res"
+/OUT:"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 2\ButtonExp\Intermediate\Build\Win64\UE4Editor\Development\ButtonExp\UE4Editor-ButtonExp.lib"
+/INCLUDE:IMPLEMENT_MODULE_ButtonExp

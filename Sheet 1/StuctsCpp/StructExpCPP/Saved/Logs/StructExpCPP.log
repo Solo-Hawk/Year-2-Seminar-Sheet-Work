@@ -1,0 +1,1178 @@
+﻿Log file open, 01/23/20 17:27:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StructExpCPP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.091077
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=YeeeetMachine -epicuserid=cc7ea1a30a4a44d5989dadc140765107 -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.23-17.27.57:952][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.23-17.27.57:952][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.27.57:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.23-17.27.57:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.27.57:953][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.27.57:957][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.23-17.27.57:957][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.23-17.27.57:958][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.23-17.27.57:958][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.23-17.27.57:958][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.23-17.27.57:964][  0]LogHAL: Display: Platform has ~ 32 GB [34278051840 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.23-17.27.57:964][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.23-17.27.57:964][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.23-17.27.57:964][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Scalability.ini]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.23-17.27.57:965][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Config/Windows/Engine.ini]
+[2020.01.23-17.27.57:965][  0]LogInit: Computer: C-02508
+[2020.01.23-17.27.57:965][  0]LogInit: User: 1800005
+[2020.01.23-17.27.57:965][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.23-17.27.57:966][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.23-17.27.57:966][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.01.23-17.27.57:966][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.23-17.27.57:966][  0]LogMemory: Process Physical Memory: 102.71 MB used, 102.71 MB peak
+[2020.01.23-17.27.57:966][  0]LogMemory: Process Virtual Memory: 91.44 MB used, 91.44 MB peak
+[2020.01.23-17.27.57:966][  0]LogMemory: Physical Memory: 10390.63 MB used,  22299.47 MB free, 32690.10 MB total
+[2020.01.23-17.27.57:966][  0]LogMemory: Virtual Memory: 4677.16 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.01.23-17.27.57:970][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.23-17.27.58:030][  0]LogInit: Using OS detected language (en-GB).
+[2020.01.23-17.27.58:030][  0]LogInit: Using OS detected locale (en-GB).
+[2020.01.23-17.27.58:031][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.01.23-17.27.58:296][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.23-17.27.58:341][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.23-17.27.58:341][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.23-17.27.58:927][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.23-17.27.58:927][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.23-17.27.59:027][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.01.23-17.27.59:027][  0]LogD3D11RHI:       8079/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.23-17.27.59:031][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.23-17.27.59:031][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.23-17.27.59:031][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.23-17.27.59:048][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.23-17.27.59:048][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.23-17.27.59:048][  0]LogWindows: EnumDisplayDevices:
+[2020.01.23-17.27.59:049][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.01.23-17.27.59:050][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.23-17.27.59:050][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.23-17.27.59:051][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.23-17.27.59:052][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.23-17.27.59:052][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.01.23-17.27.59:052][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2020.01.23-17.27.59:052][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2020.01.23-17.27.59:052][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.01.23-17.27.59:125][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.23-17.27.59:139][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.23-17.27.59:664][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.23-17.27.59:676][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.23-17.27.59:690][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.23-17.27.59:701][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.23-17.27.59:717][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.23-17.27.59:729][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.23-17.27.59:740][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.23-17.27.59:756][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.23-17.27.59:766][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.23-17.27.59:819][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.23-17.27.59:823][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.23-17.27.59:849][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.23-17.27.59:849][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.23-17.27.59:869][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.23-17.27.59:869][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.23-17.27.59:879][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.23-17.27.59:890][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.23-17.27.59:900][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.23-17.27.59:913][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.23-17.27.59:948][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.23-17.27.59:948][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.23-17.27.59:948][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.23-17.27.59:962][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.23-17.28.00:059][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Intermediate/Shaders/WorkingDirectory/22712/).
+[2020.01.23-17.28.00:059][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1800005/AppData/Local/Temp/UnrealShaderWorkingDir/7E5FC60C45967F00E4D84197BC195525/'.
+[2020.01.23-17.28.00:062][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.23-17.28.00:062][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.23-17.28.00:062][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.23-17.28.00:932][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.23-17.28.00:997][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/1800005/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.23-17.28.00:997][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1800005/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.23-17.28.00:997][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.23-17.28.00:997][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.23-17.28.00:997][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.23-17.28.00:997][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.23-17.28.01:008][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.23-17.28.01:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.23-17.28.01:008][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.23-17.28.01:010][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1800005/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.23-17.28.01:011][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.23-17.28.01:011][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.23-17.28.01:031][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.23-17.28.01:033][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.23-17.28.01:035][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.23-17.28.01:173][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.01.23-17.28.01:478][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.23-17.28.01:660][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.23-17.28.01:660][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.23-17.28.01:660][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.23-17.28.01:660][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.23-17.28.01:660][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.23-17.28.01:671][  0]LogNetVersion: StructExpCPP 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2388703708)
+[2020.01.23-17.28.02:148][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.050536 seconds
+[2020.01.23-17.28.02:153][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.23-17.28.02:153][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.23-17.28.02:154][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.23-17.28.03:895][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.23-17.28.03:940][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.23-17.28.04:013][  0]SourceControl: Source control is disabled
+[2020.01.23-17.28.04:013][  0]SourceControl: Source control is disabled
+[2020.01.23-17.28.04:015][  0]SourceControl: Source control is disabled
+[2020.01.23-17.28.04:017][  0]SourceControl: Source control is disabled
+[2020.01.23-17.28.04:163][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.23-17.28.04:354][  0]LogOcInput: OculusInput pre-init called
+[2020.01.23-17.28.04:366][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.23-17.28.04:366][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.23-17.28.04:441][  0]LogEngine: Initializing Engine...
+[2020.01.23-17.28.04:442][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.23-17.28.04:443][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.23-17.28.04:681][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.23-17.28.04:699][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.23-17.28.04:729][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.28.04:932][  0]LogInit: FAudioDevice initialized.
+[2020.01.23-17.28.04:933][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.23-17.28.05:025][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/1800005/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.23-17.28.05:028][  0]LogInit: Texture streaming: Enabled
+[2020.01.23-17.28.05:054][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.23-17.28.05:087][  0]LogInit: Transaction tracking system initialized
+[2020.01.23-17.28.05:125][  0]BlueprintLog: New page: Editor Load
+[2020.01.23-17.28.05:314][  0]LocalizationService: Localization service is disabled
+[2020.01.23-17.28.05:662][  0]LogFileCache: Scanning file cache for directory 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Content/' took 0.00s
+[2020.01.23-17.28.05:662][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.23-17.28.05:662][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.23-17.28.05:932][  0]SourceControl: Source control is disabled
+[2020.01.23-17.28.05:932][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.23-17.28.05:933][  0]LightingResults: New page: Lighting Build
+[2020.01.23-17.28.05:936][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-17.28.05:936][  0]MapCheck: New page: Map Check
+[2020.01.23-17.28.05:936][  0]LightingResults: New page: Lighting Build
+[2020.01.23-17.28.05:964][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.01.23-17.28.06:060][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.01.23-17.28.06:065][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.23-17.28.06:093][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.01.23-17.28.06:093][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.23-17.28.06:093][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.01.23-17.28.06:093][  0]LogFileHelpers: Loading map 'Template_Default' took 0.161
+[2020.01.23-17.28.06:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.28.06:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.28.06:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.28.06:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.28.06:227][  0]LogCollectionManager: Loaded 0 collections in 0.001880 seconds
+[2020.01.23-17.28.06:236][  0]LogFileCache: Scanning file cache for directory 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Saved/Collections/' took 0.00s
+[2020.01.23-17.28.06:236][  0]LogFileCache: Scanning file cache for directory 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Content/Developers/1800005/Collections/' took 0.00s
+[2020.01.23-17.28.06:236][  0]LogFileCache: Scanning file cache for directory 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Content/Collections/' took 0.00s
+[2020.01.23-17.28.06:236][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.23-17.28.06:245][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2864 classes and 682 folders.
+[2020.01.23-17.28.06:253][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.23-17.28.06:368][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.23-17.28.06:389][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.23-17.28.06:404][  0]LogSlate: Took 0.000777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.23-17.28.06:407][  0]LogSlate: Took 0.000571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.23-17.28.06:412][  0]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.23-17.28.06:488][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2020.01.23-17.28.06:579][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-17.28.06:595][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.01.23-17.28.06:608][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.01.23-17.28.06:608][  0]LogLoad: (Engine Initialization) Total time: 10.99 seconds
+[2020.01.23-17.28.06:608][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.23-17.28.06:665][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.23-17.28.06:769][  8]LogAssetRegistry: Asset discovery search completed in 5.5966 seconds
+[2020.01.23-17.28.06:773][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.01.23-17.28.06:773][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2020.01.23-17.28.18:675][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.28.23:680][ 31]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.23-17.28.23:723][ 31]LogSlate: Took 0.000600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.23-17.28.28:272][571]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.23-17.30.30:994][518]Candidate modules for hot reload:
+[2020.01.23-17.30.30:994][518]  StructExpCPP
+[2020.01.23-17.30.30:995][518]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,1007 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-17.30.47:059][518]CompilerResultsLog: New page: Compilation - 23 Jan 2020 17:30:47
+[2020.01.23-17.30.47:059][518]CompilerResultsLog: Invalidating makefile for StructExpCPPEditor (source file added)
+[2020.01.23-17.30.47:059][518]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-17.30.47:059][518]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-17.30.47:059][518]CompilerResultsLog: Reflection code generated for StructExpCPPEditor in 10.1334882 seconds
+[2020.01.23-17.30.47:059][518]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.23-17.30.47:059][518]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.01.23-17.30.47:059][518]CompilerResultsLog:   [1/4] StructCPPExample.cpp
+[2020.01.23-17.30.47:059][518]CompilerResultsLog:   [2/4] UE4Editor-StructExpCPP-1007.lib
+[2020.01.23-17.30.47:059][518]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-1007.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-1007.exp
+[2020.01.23-17.30.47:059][518]CompilerResultsLog:   [3/4] UE4Editor-StructExpCPP-1007.dll
+[2020.01.23-17.30.47:059][518]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-1007.suppressed.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-1007.suppressed.exp
+[2020.01.23-17.30.47:060][518]CompilerResultsLog:   [4/4] StructExpCPPEditor.target
+[2020.01.23-17.30.47:060][518]CompilerResultsLog: Total time in Parallel executor: 2.72 seconds
+[2020.01.23-17.30.47:060][518]CompilerResultsLog: Total execution time: 15.88 seconds
+[2020.01.23-17.30.47:060][518]LogMainFrame: MainFrame: Module compiling took 16.069 seconds
+[2020.01.23-17.30.47:093][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.23-17.30.47:181][518]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.01.23-17.30.47:185][518]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.23-17.30.47:254][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.23-17.30.47:267][518]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2865 classes and 684 folders.
+[2020.01.23-17.30.47:267][518]Display: HotReload took 16.3s.
+[2020.01.23-17.30.47:269][518]Warning: HotReload operation took 16.3s.
+[2020.01.23-17.30.53:512][518]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPPExample.h'
+[2020.01.23-17.30.53:513][518]LogVSAccessor: Warning: Couldn't open file 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPPExample.cpp'.
+[2020.01.23-17.30.53:516][518]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.23-17.30.53:522][518]LogHotReload: New module detected: UE4Editor-StructExpCPP-1007.dll
+[2020.01.23-17.30.53:577][519]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.23-17.30.53:624][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.23-17.30.53:628][519]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2020.01.23-17.30.53:632][519]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.23-17.30.53:661][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.23-17.30.53:680][519]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2865 classes and 684 folders.
+[2020.01.23-17.30.53:685][519]Display: HotReload took  0.1s.
+[2020.01.23-17.37.01:737][880]Candidate modules for hot reload:
+[2020.01.23-17.37.01:737][880]  StructExpCPP
+[2020.01.23-17.37.01:737][880]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,5350 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-17.37.01:741][880]Warning: Starting HotReload took  0.0s.
+[2020.01.23-17.37.12:939][208]CompilerResultsLog: New page: Compilation - 23 Jan 2020 17:37:12
+[2020.01.23-17.37.12:939][208]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-17.37.12:939][208]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-17.37.12:939][208]CompilerResultsLog: Reflection code generated for StructExpCPPEditor in 7.9995812 seconds
+[2020.01.23-17.37.12:939][208]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.23-17.37.12:939][208]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.01.23-17.37.12:939][208]CompilerResultsLog:   [1/3] UE4Editor-StructExpCPP-5350.lib
+[2020.01.23-17.37.12:940][208]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-5350.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-5350.exp
+[2020.01.23-17.37.12:940][208]CompilerResultsLog:   [2/3] UE4Editor-StructExpCPP-5350.dll
+[2020.01.23-17.37.12:940][208]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-5350.suppressed.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-5350.suppressed.exp
+[2020.01.23-17.37.12:940][208]CompilerResultsLog:   [3/3] StructExpCPPEditor.target
+[2020.01.23-17.37.12:940][208]CompilerResultsLog: Total time in Parallel executor: 1.70 seconds
+[2020.01.23-17.37.12:940][208]CompilerResultsLog: Total execution time: 11.03 seconds
+[2020.01.23-17.37.12:940][208]LogMainFrame: MainFrame: Module compiling took 11.205 seconds
+[2020.01.23-17.37.12:969][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.01.23-17.37.13:042][208]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.01.23-17.37.13:044][208]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.23-17.37.13:122][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.23-17.37.13:135][208]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2865 classes and 684 folders.
+[2020.01.23-17.37.13:135][208]Display: HotReload took 11.4s.
+[2020.01.23-17.40.20:142][383]Candidate modules for hot reload:
+[2020.01.23-17.40.20:142][383]  StructExpCPP
+[2020.01.23-17.40.20:142][383]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,9575 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: New page: Compilation - 23 Jan 2020 17:40:34
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: Invalidating makefile for StructExpCPPEditor (source file added)
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-17.40.34:455][383]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: Reflection code generated for StructExpCPPEditor in 9.2235253 seconds
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.01.23-17.40.34:455][383]CompilerResultsLog:   [1/4] CharacterCPPStruct.cpp
+[2020.01.23-17.40.34:455][383]CompilerResultsLog:   [2/4] UE4Editor-StructExpCPP-9575.lib
+[2020.01.23-17.40.34:455][383]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-9575.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-9575.exp
+[2020.01.23-17.40.34:455][383]CompilerResultsLog:   [3/4] UE4Editor-StructExpCPP-9575.dll
+[2020.01.23-17.40.34:455][383]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-9575.suppressed.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-9575.suppressed.exp
+[2020.01.23-17.40.34:455][383]CompilerResultsLog:   [4/4] StructExpCPPEditor.target
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: Total time in Parallel executor: 2.40 seconds
+[2020.01.23-17.40.34:455][383]CompilerResultsLog: Total execution time: 14.14 seconds
+[2020.01.23-17.40.34:456][383]LogMainFrame: MainFrame: Module compiling took 14.316 seconds
+[2020.01.23-17.40.34:490][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.23-17.40.34:572][383]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.01.23-17.40.34:574][383]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.23-17.40.34:633][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.01.23-17.40.34:646][383]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2865 classes and 684 folders.
+[2020.01.23-17.40.34:646][383]Display: HotReload took 14.5s.
+[2020.01.23-17.40.34:647][383]Warning: HotReload operation took 14.5s.
+[2020.01.23-17.40.35:080][383]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/CharacterCPPStruct.h'
+[2020.01.23-17.40.35:081][383]LogVSAccessor: Warning: Couldn't open file 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/CharacterCPPStruct.cpp'.
+[2020.01.23-17.40.35:081][383]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.23-17.40.35:092][383]LogHotReload: New module detected: UE4Editor-StructExpCPP-9575.dll
+[2020.01.23-17.40.35:144][384]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.23-17.40.35:193][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.01.23-17.40.35:197][384]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2020.01.23-17.40.35:200][384]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.23-17.40.35:230][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.23-17.40.35:253][384]LogContentBrowser: Native class hierarchy populated in 0.0153 seconds. Added 2865 classes and 684 folders.
+[2020.01.23-17.40.35:256][384]Display: HotReload took  0.1s.
+[2020.01.23-17.42.07:620][150]Running C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" -game -rocket -progress
+[2020.01.23-17.42.08:230][150]Discovering modules, targets and source code for project...
+[2020.01.23-17.42.10:349][150]Binding IntelliSense data...
+[2020.01.23-17.42.13:081][150]Binding IntelliSense data... 100%
+[2020.01.23-17.42.13:082][150]Writing project files...
+[2020.01.23-17.42.17:526][150]Writing project files... 100%
+[2020.01.23-17.42.17:644][150]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.01.23-17.42.17:650][150]Candidate modules for hot reload:
+[2020.01.23-17.42.17:650][150]  StructExpCPP
+[2020.01.23-17.42.17:650][150]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,7388 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-17.42.34:547][150]CompilerResultsLog: New page: Compilation - 23 Jan 2020 17:42:34
+[2020.01.23-17.42.34:547][150]CompilerResultsLog: Creating makefile for StructExpCPPEditor (no existing makefile)
+[2020.01.23-17.42.34:547][150]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-17.42.34:547][150]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-17.42.34:547][150]CompilerResultsLog: Reflection code generated for StructExpCPPEditor in 10.9183482 seconds
+[2020.01.23-17.42.34:547][150]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.23-17.42.34:547][150]CompilerResultsLog: Building 11 actions with 12 processes...
+[2020.01.23-17.42.34:547][150]CompilerResultsLog:   [1/11] StructCPPExample.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [2/11] CharacterCPPStruct.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [3/11] StructCPP.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [4/11] StructExpCPPGameModeBase.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [5/11] StructExpCPP.init.gen.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [6/11] StructExpCPP.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [7/11] StructCPP.gen.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [8/11] StructExpCPPGameModeBase.gen.cpp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [9/11] UE4Editor-StructExpCPP-7388.lib
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-7388.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-7388.exp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [10/11] UE4Editor-StructExpCPP-7388.dll
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-7388.suppressed.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-7388.suppressed.exp
+[2020.01.23-17.42.34:548][150]CompilerResultsLog:   [11/11] StructExpCPPEditor.target
+[2020.01.23-17.42.34:548][150]CompilerResultsLog: Total time in Parallel executor: 2.96 seconds
+[2020.01.23-17.42.34:548][150]CompilerResultsLog: Total execution time: 16.64 seconds
+[2020.01.23-17.42.34:548][150]LogMainFrame: MainFrame: Module compiling took 16.904 seconds
+[2020.01.23-17.42.34:591][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.01.23-17.42.34:666][150]LogClass: Could not find existing class StructCPP in package /Script/StructExpCPP for HotReload, assuming new class
+[2020.01.23-17.42.34:671][150]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0011 seconds. Added 2 classes and 2 folders.
+[2020.01.23-17.42.34:674][150]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.23-17.42.34:758][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.01.23-17.42.34:771][150]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2866 classes and 684 folders.
+[2020.01.23-17.42.34:771][150]Display: HotReload took 17.1s.
+[2020.01.23-17.42.34:772][150]Warning: HotReload operation took 17.1s.
+[2020.01.23-17.42.34:794][150]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.23-17.42.34:802][150]LogHotReload: New module detected: UE4Editor-StructExpCPP-7388.dll
+[2020.01.23-17.42.34:842][151]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.23-17.42.34:900][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.23-17.42.34:904][151]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2020.01.23-17.42.34:908][151]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.01.23-17.42.34:937][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.01.23-17.42.34:951][151]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2866 classes and 684 folders.
+[2020.01.23-17.42.34:953][151]Display: HotReload took  0.1s.
+[2020.01.23-17.42.59:044][355]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2020.01.23-17.58.18:651][263]Candidate modules for hot reload:
+[2020.01.23-17.58.18:651][263]  StructExpCPP
+[2020.01.23-17.58.18:651][263]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,6430 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-17.58.18:655][263]Warning: Starting HotReload took  0.0s.
+[2020.01.23-17.58.28:387][412]CompilerResultsLog: New page: Compilation - 23 Jan 2020 17:58:28
+[2020.01.23-17.58.28:387][412]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-17.58.28:387][412]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-17.58.28:387][412]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPP.h(32)  : Error: Missing '*' in Expected a pointer type
+[2020.01.23-17.58.28:387][412]LogMainFrame: MainFrame: Module compiling took 9.740 seconds
+[2020.01.23-17.58.28:387][412]Warning: HotReload failed, recompile failed
+[2020.01.23-18.37.38:056][784]Candidate modules for hot reload:
+[2020.01.23-18.37.38:056][784]  StructExpCPP
+[2020.01.23-18.37.38:056][784]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,2914 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.37.38:061][784]Warning: Starting HotReload took  0.0s.
+[2020.01.23-18.37.47:707][883]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:37:47
+[2020.01.23-18.37.47:707][883]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.37.47:707][883]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.37.47:707][883]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPP.h(32)  : Error: Missing '*' in Expected a pointer type
+[2020.01.23-18.37.47:707][883]LogMainFrame: MainFrame: Module compiling took 9.655 seconds
+[2020.01.23-18.37.47:708][883]Warning: HotReload failed, recompile failed
+[2020.01.23-18.40.35:431][531]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.23-18.40.47:698][912]Candidate modules for hot reload:
+[2020.01.23-18.40.47:698][912]  StructExpCPP
+[2020.01.23-18.40.47:698][912]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,69 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.40.59:077][912]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:40:59
+[2020.01.23-18.40.59:077][912]CompilerResultsLog: Invalidating makefile for StructExpCPPEditor (source file added)
+[2020.01.23-18.40.59:077][912]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.40.59:077][912]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.40.59:077][912]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPP.h(32)  : Error: Missing '*' in Expected a pointer type
+[2020.01.23-18.40.59:077][912]LogMainFrame: MainFrame: Module compiling took 11.382 seconds
+[2020.01.23-18.40.59:077][912]Warning: HotReload failed, recompile failed
+[2020.01.23-18.40.59:081][912]Warning: RebindPackages failed because compilation failed.
+[2020.01.23-18.41.45:724][912]LogSlate: Window 'Message' being destroyed
+[2020.01.23-18.41.45:741][912]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.01.23-18.41.45:750][912]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.01.23-18.43.04:300][659]Candidate modules for hot reload:
+[2020.01.23-18.43.04:301][659]  StructExpCPP
+[2020.01.23-18.43.04:301][659]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,1458 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.43.04:305][659]Warning: Starting HotReload took  0.0s.
+[2020.01.23-18.43.14:529][861]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:43:14
+[2020.01.23-18.43.14:529][861]CompilerResultsLog: Invalidating makefile for StructExpCPPEditor (source file added)
+[2020.01.23-18.43.14:529][861]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.43.14:530][861]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.43.14:530][861]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPP.h(32)  : Error: Missing '*' in Expected a pointer type
+[2020.01.23-18.43.14:530][861]LogMainFrame: MainFrame: Module compiling took 10.232 seconds
+[2020.01.23-18.43.14:530][861]Warning: HotReload failed, recompile failed
+[2020.01.23-18.43.28:723][486]Candidate modules for hot reload:
+[2020.01.23-18.43.28:723][486]  StructExpCPP
+[2020.01.23-18.43.28:723][486]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,8266 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.43.28:727][486]Warning: Starting HotReload took  0.0s.
+[2020.01.23-18.43.38:880][680]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:43:38
+[2020.01.23-18.43.38:881][680]CompilerResultsLog: Invalidating makefile for StructExpCPPEditor (source file added)
+[2020.01.23-18.43.38:881][680]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.43.38:881][680]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.43.38:881][680]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPP.h(32)  : Error: Missing '*' in Expected a pointer type
+[2020.01.23-18.43.38:881][680]LogMainFrame: MainFrame: Module compiling took 10.161 seconds
+[2020.01.23-18.43.38:882][680]Warning: HotReload failed, recompile failed
+[2020.01.23-18.44.49:566][503]Candidate modules for hot reload:
+[2020.01.23-18.44.49:566][503]  StructExpCPP
+[2020.01.23-18.44.49:566][503]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,7708 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.44.49:571][503]Warning: Starting HotReload took  0.0s.
+[2020.01.23-18.45.00:292][ 20]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:45:00
+[2020.01.23-18.45.00:292][ 20]CompilerResultsLog: Invalidating makefile for StructExpCPPEditor (source file added)
+[2020.01.23-18.45.00:292][ 20]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.45.00:292][ 20]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.45.00:293][ 20]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructCPP.h(50)  : Error: Missing '*' in Expected a pointer type
+[2020.01.23-18.45.00:293][ 20]LogMainFrame: MainFrame: Module compiling took 10.730 seconds
+[2020.01.23-18.45.00:293][ 20]Warning: HotReload failed, recompile failed
+[2020.01.23-18.45.16:527][541]Candidate modules for hot reload:
+[2020.01.23-18.45.16:527][541]  StructExpCPP
+[2020.01.23-18.45.16:527][541]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,4530 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.45.16:532][541]Warning: Starting HotReload took  0.0s.
+[2020.01.23-18.45.29:810][107]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:45:29
+[2020.01.23-18.45.29:811][107]CompilerResultsLog: Invalidating makefile for StructExpCPPEditor (source file added)
+[2020.01.23-18.45.29:811][107]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.45.29:811][107]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.45.29:812][107]CompilerResultsLog: Reflection code generated for StructExpCPPEditor in 7.8824154 seconds
+[2020.01.23-18.45.29:812][107]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.01.23-18.45.29:812][107]CompilerResultsLog: Building 8 actions with 12 processes...
+[2020.01.23-18.45.29:812][107]CompilerResultsLog:   [1/8] StructExpCPP.init.gen.cpp
+[2020.01.23-18.45.29:812][107]CompilerResultsLog:   [2/8] StructDataTable.cpp
+[2020.01.23-18.45.29:812][107]CompilerResultsLog:   [3/8] StructCPP.cpp
+[2020.01.23-18.45.29:812][107]CompilerResultsLog:   [4/8] StructDataTable.gen.cpp
+[2020.01.23-18.45.29:813][107]CompilerResultsLog:   [5/8] StructCPP.gen.cpp
+[2020.01.23-18.45.29:813][107]CompilerResultsLog:   [6/8] UE4Editor-StructExpCPP-4530.lib
+[2020.01.23-18.45.29:813][107]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-4530.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-4530.exp
+[2020.01.23-18.45.29:813][107]CompilerResultsLog:   [7/8] UE4Editor-StructExpCPP-4530.dll
+[2020.01.23-18.45.29:813][107]CompilerResultsLog:      Creating library D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-4530.suppressed.lib and object D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\UE4Editor-StructExpCPP-4530.suppressed.exp
+[2020.01.23-18.45.29:814][107]CompilerResultsLog:   [8/8] StructExpCPPEditor.target
+[2020.01.23-18.45.29:814][107]CompilerResultsLog: Total time in Parallel executor: 2.72 seconds
+[2020.01.23-18.45.29:814][107]CompilerResultsLog: Total execution time: 13.14 seconds
+[2020.01.23-18.45.29:814][107]LogMainFrame: MainFrame: Module compiling took 13.291 seconds
+[2020.01.23-18.45.29:843][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.23-18.45.29:918][107]LogClass: Could not find existing class StructCPP in package /Script/StructExpCPP for HotReload, assuming new class
+[2020.01.23-18.45.29:918][107]LogClass: Could not find existing class StructDataTable in package /Script/StructExpCPP for HotReload, assuming new class
+[2020.01.23-18.45.29:921][107]LogClass: Could not find existing type WeaponStruct for HotReload. Assuming new
+[2020.01.23-18.45.29:922][107]LogClass: Could not find existing type ContainerStruct for HotReload. Assuming new
+[2020.01.23-18.45.29:922][107]LogClass: Could not find existing type CharacterStruct for HotReload. Assuming new
+[2020.01.23-18.45.29:928][107]LogHotReload: Re-instancing StructCPP after hot-reload.
+[2020.01.23-18.45.30:021][107]LogContentBrowser: Native class hierarchy updated for 'StructExpCPP' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.01.23-18.45.30:023][107]Display: HotReload successful (0 functions remapped  3 scriptstructs remapped)
+[2020.01.23-18.45.30:079][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.01.23-18.45.30:091][107]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2867 classes and 684 folders.
+[2020.01.23-18.45.30:092][107]Display: HotReload took 13.6s.
+[2020.01.23-18.45.54:134][946]LogSlate: Window 'Output Log' being destroyed
+[2020.01.23-18.45.54:137][946]LogSlate: Window 'Output Log' being destroyed
+[2020.01.23-18.46.03:741][539]LogAssetEditorManager: Opening Asset editor for Class /Script/StructExpCPP.StructDataTable
+[2020.01.23-18.46.03:998][539]LogVSAccessor: Warning: Couldn't open file 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructDataTable.cpp'.
+[2020.01.23-18.54.45:512][736]Candidate modules for hot reload:
+[2020.01.23-18.54.45:512][736]  StructExpCPP
+[2020.01.23-18.54.45:512][736]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,421 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.54.45:517][736]Warning: Starting HotReload took  0.0s.
+[2020.01.23-18.54.50:929][367]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:54:50
+[2020.01.23-18.54.50:929][367]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.54.50:929][367]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.54.50:929][367]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructDataTable.h(1) : Error: Class 'UDataTable' must inherit UObject or a UObject-derived class
+[2020.01.23-18.54.50:929][367]LogMainFrame: MainFrame: Module compiling took 5.419 seconds
+[2020.01.23-18.54.50:929][367]Warning: HotReload failed, recompile failed
+[2020.01.23-18.55.16:637][644]Candidate modules for hot reload:
+[2020.01.23-18.55.16:637][644]  StructExpCPP
+[2020.01.23-18.55.16:637][644]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=StructExpCPP,2648 Win64 Development -TargetType=Editor -Project="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject" "D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/StructExpCPP.uproject"  -IgnoreJunk]
+[2020.01.23-18.55.16:642][644]Warning: Starting HotReload took  0.0s.
+[2020.01.23-18.55.21:678][226]CompilerResultsLog: New page: Compilation - 23 Jan 2020 18:55:21
+[2020.01.23-18.55.21:678][226]CompilerResultsLog: Parsing headers for StructExpCPPEditor
+[2020.01.23-18.55.21:678][226]CompilerResultsLog:   Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\StructExpCPP.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\StructExpCPPEditor\Development\StructExpCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.01.23-18.55.21:678][226]CompilerResultsLog: Error: D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 1/StuctsCpp/StructExpCPP/Source/StructExpCPP/StructDataTable.h(1) : Error: Class 'UDataTable' must inherit UObject or a UObject-derived class
+[2020.01.23-18.55.21:678][226]LogMainFrame: MainFrame: Module compiling took 5.044 seconds
+[2020.01.23-18.55.21:678][226]Warning: HotReload failed, recompile failed
+[2020.01.23-18.55.25:296][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.01.23-18.55.25:338][650]LogSlate: Window 'Message Log' being destroyed
+[2020.01.23-18.55.25:342][650]LogSlate: Window 'StructExpCPP - Unreal Editor' being destroyed
+[2020.01.23-18.55.25:342][650]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.23-18.55.25:448][651]Cmd: QUIT_EDITOR
+[2020.01.23-18.55.25:496][651]LogExit: Preparing to exit.
+[2020.01.23-18.55.25:659][651]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.23-18.55.25:670][651]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-18.55.25:671][651]LogExit: Editor shut down
+[2020.01.23-18.55.25:671][651]LogExit: Transaction tracking system shut down
+[2020.01.23-18.55.25:911][651]LogExit: Object subsystem successfully closed.
+[2020.01.23-18.55.25:946][651]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.23-18.55.26:014][651]LogModuleManager: Shutting down and abandoning module StructExpCPP (680)
+[2020.01.23-18.55.26:014][651]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2020.01.23-18.55.26:014][651]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2020.01.23-18.55.26:014][651]LogModuleManager: Shutting down and abandoning module AddContentDialog (668)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module WidgetCarousel (667)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module EditorWidgets (664)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module CollectionManager (662)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (660)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2020.01.23-18.55.26:015][651]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2020.01.23-18.55.26:016][651]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2020.01.23-18.55.26:017][651]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2020.01.23-18.55.26:017][651]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2020.01.23-18.55.26:017][651]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2020.01.23-18.55.26:017][651]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2020.01.23-18.55.26:017][651]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2020.01.23-18.55.26:017][651]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2020.01.23-18.55.27:236][651]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2020.01.23-18.55.27:236][651]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2020.01.23-18.55.27:236][651]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2020.01.23-18.55.27:236][651]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2020.01.23-18.55.27:236][651]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2020.01.23-18.55.27:237][651]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2020.01.23-18.55.27:238][651]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2020.01.23-18.55.27:238][651]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2020.01.23-18.55.27:238][651]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2020.01.23-18.55.27:238][651]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2020.01.23-18.55.27:238][651]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2020.01.23-18.55.27:238][651]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2020.01.23-18.55.27:238][651]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2020.01.23-18.55.27:293][651]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.01.23-18.55.27:295][651]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.01.23-18.55.27:296][651]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.01.23-18.55.27:296][651]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.01.23-18.55.27:296][651]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2020.01.23-18.55.27:303][651]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2020.01.23-18.55.27:516][651]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2020.01.23-18.55.27:516][651]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.01.23-18.55.27:516][651]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.01.23-18.55.27:516][651]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.01.23-18.55.27:516][651]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.01.23-18.55.27:516][651]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.01.23-18.55.27:516][651]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2020.01.23-18.55.27:517][651]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2020.01.23-18.55.27:518][651]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.01.23-18.55.27:519][651]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.01.23-18.55.27:620][651]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.01.23-18.55.27:721][651]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.01.23-18.55.27:721][651]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.01.23-18.55.27:722][651]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.01.23-18.55.27:722][651]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.01.23-18.55.27:722][651]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.01.23-18.55.27:722][651]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.01.23-18.55.27:723][651]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.01.23-18.55.27:724][651]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.01.23-18.55.27:724][651]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.01.23-18.55.27:724][651]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.23-18.55.27:724][651]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.01.23-18.55.27:724][651]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.01.23-18.55.27:727][651]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.01.23-18.55.27:728][651]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.01.23-18.55.27:729][651]LogDerivedDataCache: Shutdown
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.01.23-18.55.27:729][651]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.01.23-18.55.27:730][651]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.01.23-18.55.27:730][651]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.01.23-18.55.27:730][651]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.01.23-18.55.27:730][651]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.01.23-18.55.27:730][651]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.01.23-18.55.27:731][651]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.01.23-18.55.27:731][651]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.01.23-18.55.27:731][651]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.01.23-18.55.27:732][651]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.01.23-18.55.27:740][651]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.01.23-18.55.27:740][651]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.01.23-18.55.27:742][651]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.01.23-18.55.27:742][651]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.01.23-18.55.27:752][651]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.01.23-18.55.27:752][651]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.23-18.55.27:752][651]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7FB170AA-47D7-B857-DE6D-15A282468587%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=66c034334c46e55f49a994a50fd0318d%7Ccc7ea1a30a4a44d5989dadc140765107%7C61ce489f-5e03-4dad-927f-539448c90c28&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.23-18.55.27:768][651]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.01.23-18.55.27:769][651]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.01.23-18.55.27:771][651]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.01.23-18.55.27:772][651]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.01.23-18.55.27:772][651]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.23-18.55.27:773][651]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.23-18.55.27:774][651]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.23-18.55.27:783][651]LogD3D11RHI: Shutdown
+[2020.01.23-18.55.27:783][651]LogD3D11RHI: CleanupD3DDevice
+[2020.01.23-18.55.27:783][651]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.23-18.55.27:783][651]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.23-18.55.27:783][651]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.23-18.55.27:872][651]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.23-18.55.27:887][651]LogExit: Exiting.
+[2020.01.23-18.55.27:906][651]Log file closed, 01/23/20 18:55:27

@@ -1,0 +1,7 @@
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\Definitions.StructExpCPP.h
+d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 1\stuctscpp\structexpcpp\source\structexpcpp\StructExpCPPGameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Inc\StructExpCPP\StructExpCPPGameModeBase.generated.h

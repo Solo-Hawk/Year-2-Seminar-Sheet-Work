@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\InheritenceExp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C26A1623-1E34-4C84-9110-8C858E7E52B5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InheritenceExp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InheritenceExpEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{98DEBDA9-929C-48F9-B85C-073D058EB83E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{E096C7EC-2FEE-4B55-8881-5C4436A510E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{C0BC12B7-7372-4B76-9AB3-434620056160}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{B226067A-842E-412B-B4A6-8A9973F26877}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{725AB71F-07A0-429E-9532-A5B785FA77DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{09CEE20E-2E7F-4D6C-8A28-B0B1B0526FED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{2FCC60C6-BCE0-4A03-9751-8E128DF8D3A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{CFD08FF9-4763-4B5C-8022-892A38D53C8A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{11C93072-8087-4FCC-9CC0-F66095861011}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\InheritenceExp">
+      <UniqueIdentifier>{77C99EDB-0162-4335-9688-5CC52CDFC77D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InheritenceExp\InheritenceExp.Build.cs">
+      <Filter>Source\InheritenceExp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\InheritenceExp\InheritenceExp.cpp">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InheritenceExp\InheritenceExp.h">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InheritenceExp\InheritenceExpGameModeBase.cpp">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InheritenceExp\InheritenceExpGameModeBase.h">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\InheritenceExp\BaseMonster.h">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InheritenceExp\RedDemon.h">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InheritenceExp\MyBaseMonster.h">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InheritenceExp\GreyDemon.h">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\InheritenceExp\ShieldMaster.h">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\InheritenceExp\BaseMonster.cpp">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InheritenceExp\RedDemon.cpp">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InheritenceExp\MyBaseMonster.cpp">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InheritenceExp\GreyDemon.cpp">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\InheritenceExp\ShieldMaster.cpp">
+      <Filter>Source\InheritenceExp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

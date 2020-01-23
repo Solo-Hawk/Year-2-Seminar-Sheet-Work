@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ButtonExp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4EFFD985-ACAB-4FF4-85D3-DF9DC48978CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ButtonExp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ButtonExpEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1B275283-FBFA-417E-86D5-07B4CB9E0BC8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{D203F13A-82DE-4455-B8C4-96C58436BD51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{230BF249-2971-4C6D-90B3-0DB58B0A2C1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{CAC2F008-E794-4099-9E45-F0DEF9DE6201}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{4E2AF1CA-C68C-45A9-85F9-7298F0D6EFE5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{325F9944-1393-4F28-BD6D-8D7DC3959702}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{4C88EF8F-A5F0-43A8-A842-5A8FB247EF65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{A2FC35BC-3C42-4347-BCD5-6628F0E21AA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{E1ACE30E-44F5-4168-8B6E-AC7583CA714B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\ButtonExp">
+      <UniqueIdentifier>{A607E21A-46CB-411D-AE74-D1315302AE2B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ButtonExp\ButtonExp.Build.cs">
+      <Filter>Source\ButtonExp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ButtonExp\ButtonExp.cpp">
+      <Filter>Source\ButtonExp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ButtonExp\ButtonExp.h">
+      <Filter>Source\ButtonExp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ButtonExp\ButtonExpGameModeBase.cpp">
+      <Filter>Source\ButtonExp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ButtonExp\ButtonExpGameModeBase.h">
+      <Filter>Source\ButtonExp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

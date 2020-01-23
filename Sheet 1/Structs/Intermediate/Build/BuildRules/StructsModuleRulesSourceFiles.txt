@@ -1,0 +1,3 @@
+C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Source\Structs\Structs.Build.cs
+C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Source\Structs.Target.cs
+C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Source\StructsEditor.Target.cs

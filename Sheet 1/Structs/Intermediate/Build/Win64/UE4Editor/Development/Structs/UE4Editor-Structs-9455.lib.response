@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Structs-9455.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Intermediate\Build\Win64\StructsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Intermediate\Build\Win64\UE4Editor\Development\Structs\MyCPPStruct.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Intermediate\Build\Win64\UE4Editor\Development\Structs\Structs.cpp.obj"
+"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Intermediate\Build\Win64\UE4Editor\Development\Structs\Default.rc2.res"
+/OUT:"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 1\Structs\Intermediate\Build\Win64\UE4Editor\Development\Structs\UE4Editor-Structs-9455.lib"
+/INCLUDE:IMPLEMENT_MODULE_Structs
