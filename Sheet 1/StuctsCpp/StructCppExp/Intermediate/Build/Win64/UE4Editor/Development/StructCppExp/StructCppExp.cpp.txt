@@ -1,0 +1,2 @@
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\Definitions.StructCppExp.h
+d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 1\stuctscpp\structcppexp\source\structcppexp\StructCppExp.h

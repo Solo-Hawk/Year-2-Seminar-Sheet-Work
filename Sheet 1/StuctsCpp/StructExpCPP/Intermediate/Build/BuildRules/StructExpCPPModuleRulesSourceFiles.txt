@@ -1,3 +1,0 @@
-D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Source\StructExpCPP\StructExpCPP.Build.cs
-D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Source\StructExpCPP.Target.cs
-D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Source\StructExpCPPEditor.Target.cs

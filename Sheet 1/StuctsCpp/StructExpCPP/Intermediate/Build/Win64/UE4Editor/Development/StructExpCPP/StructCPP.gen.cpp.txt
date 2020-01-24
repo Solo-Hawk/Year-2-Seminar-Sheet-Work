@@ -1,9 +1,0 @@
-D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Intermediate\Build\Win64\UE4Editor\Development\StructExpCPP\Definitions.StructExpCPP.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructExpCPP\Source\StructExpCPP/StructCPP.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
-d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 1\stuctscpp\structexpcpp\intermediate\build\win64\ue4editor\inc\structexpcpp\StructCPP.generated.h

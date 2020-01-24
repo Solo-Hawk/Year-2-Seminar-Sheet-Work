@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StructCppExp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{27EBBD84-6C0C-465F-B480-02A19776E84C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StructCppExp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StructCppExpEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{383EAE3A-0195-4097-9187-D839A892FA15}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{DE35AE66-B60E-4435-8558-979D99234106}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{F6C7953A-0E88-408E-96D6-6BCF75B73A45}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{F3455816-CB05-4957-8494-6F2884056517}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{C6ED9194-0DA0-41A1-A251-76A4551B01A7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{9885B7F5-7FFD-4BC5-A5B9-D09ADE75DE6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{84CF9909-F5B6-4EBB-967F-CD4759A8FDA1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{53864856-7039-40D5-87DB-74AB52085DE5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{BE1A680F-2452-477A-998E-553B237B4AAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\StructCppExp">
+      <UniqueIdentifier>{D55E35EE-F1D0-452D-9761-BA2895923F73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StructCppExp\StructCppExp.Build.cs">
+      <Filter>Source\StructCppExp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StructCppExp\StructCppExp.cpp">
+      <Filter>Source\StructCppExp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StructCppExp\StructCppExp.h">
+      <Filter>Source\StructCppExp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StructCppExp\StructCppExpGameModeBase.cpp">
+      <Filter>Source\StructCppExp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StructCppExp\StructCppExpGameModeBase.h">
+      <Filter>Source\StructCppExp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\StructCppExp\Structs.h">
+      <Filter>Source\StructCppExp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\StructCppExp\StructCPPExample.h">
+      <Filter>Source\StructCppExp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\StructCppExp\Structs.cpp">
+      <Filter>Source\StructCppExp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\StructCppExp\StructCPPExample.cpp">
+      <Filter>Source\StructCppExp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

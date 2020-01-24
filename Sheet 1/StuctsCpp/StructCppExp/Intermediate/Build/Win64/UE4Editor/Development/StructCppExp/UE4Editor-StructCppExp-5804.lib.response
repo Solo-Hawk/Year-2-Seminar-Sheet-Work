@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StructCppExp-5804.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\StructCppExpEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\StructCppExp.cpp.obj"
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\StructCppExpGameModeBase.cpp.obj"
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\Structs.cpp.obj"
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\StructCppExp.init.gen.cpp.obj"
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\StructCppExpGameModeBase.gen.cpp.obj"
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\Default.rc2.res"
+/OUT:"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 1\StuctsCpp\StructCppExp\Intermediate\Build\Win64\UE4Editor\Development\StructCppExp\UE4Editor-StructCppExp-5804.lib"
+/INCLUDE:IMPLEMENT_MODULE_StructCppExp
