@@ -1,2 +1,2 @@
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\Definitions.Motion.h
-c:\users\fowke\documents\1. uni\unreal development\seminar work\sheet 3\motion\source\motion\Motion.h
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\Definitions.Motion.h
+d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 3\motion\source\motion\Motion.h

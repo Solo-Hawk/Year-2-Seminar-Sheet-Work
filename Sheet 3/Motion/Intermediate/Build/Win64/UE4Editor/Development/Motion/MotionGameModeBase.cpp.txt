@@ -1,7 +1,7 @@
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\Definitions.Motion.h
-c:\users\fowke\documents\1. uni\unreal development\seminar work\sheet 3\motion\source\motion\MotionGameModeBase.h
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\Definitions.Motion.h
+d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 3\motion\source\motion\MotionGameModeBase.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Inc\Motion\MotionGameModeBase.generated.h
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Inc\Motion\MotionGameModeBase.generated.h

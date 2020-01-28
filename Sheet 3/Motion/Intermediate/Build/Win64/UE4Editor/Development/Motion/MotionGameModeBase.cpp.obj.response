@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Inc\Motion"
-/I "C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Source"
-/I "C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Source\Motion"
+/I "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Inc\Motion"
+/I "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Source"
+/I "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Source\Motion"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -524,17 +524,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\MotionEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\MotionEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\MotionEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Source\Motion\MotionGameModeBase.cpp"
-/FI"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\Definitions.Motion.h"
-/Fo"C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\MotionGameModeBase.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\MotionEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\MotionEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\MotionEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Source\Motion\MotionGameModeBase.cpp"
+/FI"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\Definitions.Motion.h"
+/Fo"D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 3\Motion\Intermediate\Build\Win64\UE4Editor\Development\Motion\MotionGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4
