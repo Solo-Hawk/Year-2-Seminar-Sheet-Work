@@ -31,6 +31,16 @@ void EmptyLinkFunctionForGeneratedCodeShieldMaster() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_shieldDurability_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_shieldDurability;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_isBlocked_MetaData[];
+#endif
+		static void NewProp_isBlocked_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_isBlocked;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -45,6 +55,28 @@ void EmptyLinkFunctionForGeneratedCodeShieldMaster() {}
 		{ "ModuleRelativePath", "ShieldMaster.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShieldMaster_Statics::NewProp_shieldDurability_MetaData[] = {
+		{ "Category", "ShieldMaster" },
+		{ "ModuleRelativePath", "ShieldMaster.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AShieldMaster_Statics::NewProp_shieldDurability = { "shieldDurability", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShieldMaster, shieldDurability), METADATA_PARAMS(Z_Construct_UClass_AShieldMaster_Statics::NewProp_shieldDurability_MetaData, ARRAY_COUNT(Z_Construct_UClass_AShieldMaster_Statics::NewProp_shieldDurability_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShieldMaster_Statics::NewProp_isBlocked_MetaData[] = {
+		{ "Category", "ShieldMaster" },
+		{ "ModuleRelativePath", "ShieldMaster.h" },
+	};
+#endif
+	void Z_Construct_UClass_AShieldMaster_Statics::NewProp_isBlocked_SetBit(void* Obj)
+	{
+		((AShieldMaster*)Obj)->isBlocked = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AShieldMaster_Statics::NewProp_isBlocked = { "isBlocked", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AShieldMaster), &Z_Construct_UClass_AShieldMaster_Statics::NewProp_isBlocked_SetBit, METADATA_PARAMS(Z_Construct_UClass_AShieldMaster_Statics::NewProp_isBlocked_MetaData, ARRAY_COUNT(Z_Construct_UClass_AShieldMaster_Statics::NewProp_isBlocked_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AShieldMaster_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShieldMaster_Statics::NewProp_shieldDurability,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AShieldMaster_Statics::NewProp_isBlocked,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AShieldMaster_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AShieldMaster>::IsAbstract,
 	};
@@ -54,11 +86,11 @@ void EmptyLinkFunctionForGeneratedCodeShieldMaster() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_AShieldMaster_Statics::PropPointers,
 		nullptr,
 		ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		ARRAY_COUNT(Z_Construct_UClass_AShieldMaster_Statics::PropPointers),
 		0,
 		0x009000A0u,
 		METADATA_PARAMS(Z_Construct_UClass_AShieldMaster_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_AShieldMaster_Statics::Class_MetaDataParams))
@@ -72,7 +104,7 @@ void EmptyLinkFunctionForGeneratedCodeShieldMaster() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AShieldMaster, 2888111472);
+	IMPLEMENT_CLASS(AShieldMaster, 3973363786);
 	template<> INHERITENCEEXP_API UClass* StaticClass<AShieldMaster>()
 	{
 		return AShieldMaster::StaticClass();

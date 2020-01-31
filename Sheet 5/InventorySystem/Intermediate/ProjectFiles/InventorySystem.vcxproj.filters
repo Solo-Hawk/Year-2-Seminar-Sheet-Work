@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\InventorySystem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{889EB116-5901-49BE-BAC4-8447DD991E27}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InventorySystem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InventorySystemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9CA10C6A-3927-4507-AB8F-A088CB56231A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{CFA4D4F0-6824-4887-9B5C-1170256799E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{753456A7-FD30-4DBC-84EE-3BD0996A7858}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{760D087E-F80D-40C5-99B1-802737B0DE46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{944B1304-1ACA-4938-BC6C-C73A3C80CFC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{F54C2C5F-1A1F-4291-BB00-1872C3BFB9AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{7F8AFD9E-ABC5-48FE-AFE9-C6CC277E4BD7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{971B13D0-9988-42BE-878E-F80DD2AF1315}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{8F128720-B00F-44E8-A0A8-B573852DC084}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\InventorySystem">
+      <UniqueIdentifier>{165E4DB6-FDCE-4EB8-A967-38042A7E8B6A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InventorySystem\InventorySystem.Build.cs">
+      <Filter>Source\InventorySystem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\InventorySystem\InventorySystem.cpp">
+      <Filter>Source\InventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\InventorySystem.h">
+      <Filter>Source\InventorySystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InventorySystem\InventorySystemGameModeBase.cpp">
+      <Filter>Source\InventorySystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InventorySystem\InventorySystemGameModeBase.h">
+      <Filter>Source\InventorySystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

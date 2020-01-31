@@ -1,3 +1,3 @@
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Source\InheritenceExp\InheritenceExp.Build.cs
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Source\InheritenceExp.Target.cs
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Source\InheritenceExpEditor.Target.cs
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 4\InheritenceExp\Source\InheritenceExp\InheritenceExp.Build.cs
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 4\InheritenceExp\Source\InheritenceExp.Target.cs
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 4\InheritenceExp\Source\InheritenceExpEditor.Target.cs

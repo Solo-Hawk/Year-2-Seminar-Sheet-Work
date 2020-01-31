@@ -1,5 +1,5 @@
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\Definitions.InheritenceExp.h
-c:\users\fowke\documents\1. uni\unreal development\seminar work\sheet 4\inheritenceexp\source\inheritenceexp\RedDemon.h
-c:\users\fowke\documents\1. uni\unreal development\seminar work\sheet 4\inheritenceexp\source\inheritenceexp\BaseMonster.h
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Inc\InheritenceExp\BaseMonster.generated.h
-C:\Users\fowke\Documents\1. Uni\Unreal Development\Seminar Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Inc\InheritenceExp\RedDemon.generated.h
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Development\InheritenceExp\Definitions.InheritenceExp.h
+d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 4\inheritenceexp\source\inheritenceexp\RedDemon.h
+d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 4\inheritenceexp\source\inheritenceexp\BaseMonster.h
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Inc\InheritenceExp\BaseMonster.generated.h
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 4\InheritenceExp\Intermediate\Build\Win64\UE4Editor\Inc\InheritenceExp\RedDemon.generated.h

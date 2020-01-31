@@ -1,0 +1,2 @@
+D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\Definitions.InventorySystem.h
+d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 5\inventorysystem\source\inventorysystem\InventorySystem.h

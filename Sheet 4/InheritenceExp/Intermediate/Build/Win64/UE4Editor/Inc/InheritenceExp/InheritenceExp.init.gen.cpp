@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeInheritenceExp_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x71539E19,
+				0xFBC52718,
 				0x70460E1E,
 				METADATA_PARAMS(nullptr, 0)
 			};
