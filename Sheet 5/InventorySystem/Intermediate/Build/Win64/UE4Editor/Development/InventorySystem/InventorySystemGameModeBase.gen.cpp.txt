@@ -1,9 +1,9 @@
-D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\Definitions.InventorySystem.h
+C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\Definitions.InventorySystem.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Source\InventorySystem/InventorySystemGameModeBase.h
+C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Source\InventorySystem/InventorySystemGameModeBase.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-d:\1800005\seminar work\year-2-seminar-sheet-work\sheet 5\inventorysystem\intermediate\build\win64\ue4editor\inc\inventorysystem\InventorySystemGameModeBase.generated.h
+c:\users\fowke\documents\1. uni\year-2-seminar-sheet-work\sheet 5\inventorysystem\intermediate\build\win64\ue4editor\inc\inventorysystem\InventorySystemGameModeBase.generated.h
