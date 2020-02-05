@@ -17,9 +17,37 @@ void EmptyLinkFunctionForGeneratedCodeCPP_ItemBase() {}
 	INVENTORYSYSTEM_API UClass* Z_Construct_UClass_ACPP_ItemBase();
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_InventorySystem();
+	INVENTORYSYSTEM_API UFunction* Z_Construct_UFunction_ACPP_ItemBase_PickupItem();
 // End Cross Module References
 	void ACPP_ItemBase::StaticRegisterNativesACPP_ItemBase()
 	{
+		UClass* Class = ACPP_ItemBase::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "PickupItem", &ACPP_ItemBase::execPickupItem },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_ACPP_ItemBase_PickupItem_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACPP_ItemBase_PickupItem_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/CPP_ItemBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACPP_ItemBase_PickupItem_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACPP_ItemBase, nullptr, "PickupItem", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020400, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACPP_ItemBase_PickupItem_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_ACPP_ItemBase_PickupItem_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACPP_ItemBase_PickupItem()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACPP_ItemBase_PickupItem_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_ACPP_ItemBase_NoRegister()
 	{
@@ -28,6 +56,7 @@ void EmptyLinkFunctionForGeneratedCodeCPP_ItemBase() {}
 	struct Z_Construct_UClass_ACPP_ItemBase_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -54,6 +83,9 @@ void EmptyLinkFunctionForGeneratedCodeCPP_ItemBase() {}
 	UObject* (*const Z_Construct_UClass_ACPP_ItemBase_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_AActor,
 		(UObject* (*)())Z_Construct_UPackage__Script_InventorySystem,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_ACPP_ItemBase_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_ACPP_ItemBase_PickupItem, "PickupItem" }, // 1999351892
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACPP_ItemBase_Statics::Class_MetaDataParams[] = {
@@ -103,11 +135,11 @@ void EmptyLinkFunctionForGeneratedCodeCPP_ItemBase() {}
 		nullptr,
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		Z_Construct_UClass_ACPP_ItemBase_Statics::PropPointers,
 		nullptr,
 		ARRAY_COUNT(DependentSingletons),
-		0,
+		ARRAY_COUNT(FuncInfo),
 		ARRAY_COUNT(Z_Construct_UClass_ACPP_ItemBase_Statics::PropPointers),
 		0,
 		0x009000A0u,
@@ -122,7 +154,7 @@ void EmptyLinkFunctionForGeneratedCodeCPP_ItemBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACPP_ItemBase, 391972149);
+	IMPLEMENT_CLASS(ACPP_ItemBase, 1772077514);
 	template<> INVENTORYSYSTEM_API UClass* StaticClass<ACPP_ItemBase>()
 	{
 		return ACPP_ItemBase::StaticClass();

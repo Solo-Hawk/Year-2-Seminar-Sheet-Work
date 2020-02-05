@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define INVENTORYSYSTEM_CPP_ItemBase_generated_h
 
-#define InventorySystem_Source_InventorySystem_Public_CPP_ItemBase_h_12_RPC_WRAPPERS
-#define InventorySystem_Source_InventorySystem_Public_CPP_ItemBase_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define InventorySystem_Source_InventorySystem_Public_CPP_ItemBase_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execPickupItem) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->PickupItem(); \
+		P_NATIVE_END; \
+	}
+
+
+#define InventorySystem_Source_InventorySystem_Public_CPP_ItemBase_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execPickupItem) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->PickupItem(); \
+		P_NATIVE_END; \
+	}
+
+
 #define InventorySystem_Source_InventorySystem_Public_CPP_ItemBase_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACPP_ItemBase(); \

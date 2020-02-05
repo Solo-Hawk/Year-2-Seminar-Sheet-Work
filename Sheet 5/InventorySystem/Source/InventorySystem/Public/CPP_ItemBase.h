@@ -36,6 +36,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 	
-	virtual void PickupItem() {};
+	UFUNCTION(BlueprintCallable)
+	virtual void PickupItem() { Destroy(); };
 
 };

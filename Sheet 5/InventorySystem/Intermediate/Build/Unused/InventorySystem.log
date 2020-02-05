@@ -1,0 +1,5 @@
+﻿  Parsing headers for InventorySystemEditor
+    Running UnrealHeaderTool "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\InventorySystem.uproject" "D:\1800005\Seminar Work\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\InventorySystemEditor\Development\InventorySystemEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for InventorySystemEditor in 9.1236654 seconds
+  Target is up to date
+  Total execution time: 10.09 seconds
