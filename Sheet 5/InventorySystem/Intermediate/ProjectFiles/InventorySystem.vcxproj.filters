@@ -90,4 +90,22 @@
       <Filter>Source\InventorySystem</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\InventorySystem\Public">
+      <UniqueIdentifier>{03294464-2d13-4550-b401-79fc68b818da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\InventorySystem\Private">
+      <UniqueIdentifier>{105ca185-d121-45e1-b534-076788de1c76}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\InventorySystem\Public\CPP_ItemBase.h">
+      <Filter>Source\InventorySystem\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\InventorySystem\Private\CPP_ItemBase.cpp">
+      <Filter>Source\InventorySystem\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
