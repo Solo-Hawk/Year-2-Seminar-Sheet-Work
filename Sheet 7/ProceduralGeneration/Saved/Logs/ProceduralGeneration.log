@@ -23755,3 +23755,724 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-20.25.12:946][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
 [2020.02.06-20.25.12:978][314]LogPlayLevel: Display: Destroying online subsystem :Context_22
 [2020.02.06-20.25.18:235][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.30.34:187][556]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.02.06-20.30.34:187][556]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.053
+[2020.02.06-20.30.34:189][556]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_ProceduralGameMode] ([1] browsable assets)...
+[2020.02.06-20.30.34:189][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_ProceduralGameMode]
+[2020.02.06-20.30.34:310][556]LogSavePackage: Moving 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Saved/BP_ProceduralGameMode_Auto1A74C104441929A2685AF2C9470414975.tmp' to 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Saved/Autosaves/Game/BP_ProceduralGameMode_Auto1.uasset'
+[2020.02.06-20.30.34:312][556]LogFileHelpers: Auto-saving content packages took 0.124
+[2020.02.06-20.30.35:055][632]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.35:055][632]LogEditorTransaction: Undo Break Pin Links
+[2020.02.06-20.30.36:261][744]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.36:261][744]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.36:431][759]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.36:431][759]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.36:591][769]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.36:591][769]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.36:764][785]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.36:764][785]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.36:937][803]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.36:937][803]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.37:124][821]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.37:124][821]LogEditorTransaction: Undo Move Nodes
+[2020.02.06-20.30.37:321][839]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.37:321][839]LogEditorTransaction: Undo Move Node
+[2020.02.06-20.30.37:507][853]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.37:507][853]LogEditorTransaction: Undo Move Nodes
+[2020.02.06-20.30.37:712][872]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.37:712][872]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.37:922][891]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.37:922][891]LogEditorTransaction: Undo Create Pin Link
+[2020.02.06-20.30.38:334][934]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.38:334][934]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.41:554][229]LogEditorTransaction: Undo Create Pin Link
+[2020.02.06-20.30.44:599][425]LogEditorTransaction: Undo Create Pin Link
+[2020.02.06-20.30.44:969][442]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.46:209][530]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.46:999][580]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.30.47:688][625]LogEditorTransaction: Undo Create Pin Link
+[2020.02.06-20.30.52:716][968]Cmd: TRANSACTION REDO
+[2020.02.06-20.30.52:716][968]LogEditorTransaction: Redo Create Pin Link
+[2020.02.06-20.30.53:775][ 36]Cmd: TRANSACTION REDO
+[2020.02.06-20.30.53:775][ 36]LogEditorTransaction: Redo Delete current selection
+[2020.02.06-20.30.55:037][126]Cmd: TRANSACTION UNDO
+[2020.02.06-20.30.55:037][126]LogEditorTransaction: Undo Delete current selection
+[2020.02.06-20.31.00:908][515]BlueprintLog: New page: Compile BP_ProceduralGameMode
+[2020.02.06-20.31.01:220][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.02.06-20.31.09:003][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ProceduralGameMode" FILE="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Content/BP_ProceduralGameMode.uasset" SILENT=true
+[2020.02.06-20.31.09:142][247]LogSavePackage: Moving 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Saved/BP_ProceduralGameMode1DE517B5453AF8A86B737BA0DDD93D10.tmp' to 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Content/BP_ProceduralGameMode.uasset'
+[2020.02.06-20.31.12:289][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.31.15:648][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ProceduralGameMode" FILE="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Content/BP_ProceduralGameMode.uasset" SILENT=true
+[2020.02.06-20.31.15:785][962]LogSavePackage: Moving 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Saved/BP_ProceduralGameMode2B19FA734FFFBB6C5FE88BA934DA8A0C.tmp' to 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Content/BP_ProceduralGameMode.uasset'
+[2020.02.06-20.31.17:007][ 85]BlueprintLog: New page: Compile BP_ProceduralGameMode
+[2020.02.06-20.31.17:276][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.02.06-20.31.18:405][202]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-20.31.18:436][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.31.18:436][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-20.31.18:436][202]PIE: New page: PIE session: Untitled (6 Feb 2020 20:31:18)
+[2020.02.06-20.31.18:437][202]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.02.06-20.31.18:438][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001613s)
+[2020.02.06-20.31.18:439][202]LogAIModule: Creating AISystem for world Untitled
+[2020.02.06-20.31.18:439][202]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2020.02.06-20.31.18:439][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.002707s)
+[2020.02.06-20.31.18:498][202]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.06-20.31.18:513][202]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.06-20.31.18:565][202]LogInit: FAudioDevice initialized.
+[2020.02.06-20.31.18:577][202]LogLoad: Game class is 'BP_ProceduralGameMode_C'
+[2020.02.06-20.31.18:578][202]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.02.06-20.31.18
+[2020.02.06-20.31.18:579][202]LogWorld: Bringing up level for play took: 0.000840
+[2020.02.06-20.31.18:579][202]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.02.06-20.31.18:583][202]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 1.043
+[2020.02.06-20.31.18:583][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.31.18:614][203]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:629][203]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:643][203]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:668][204]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:720][205]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:734][205]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:768][208]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:815][213]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:861][218]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:908][223]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:952][227]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.18:999][232]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:048][237]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:097][242]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:147][247]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:195][252]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:242][256]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:293][261]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:341][266]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:385][270]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:438][274]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:486][279]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:528][283]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:578][288]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:627][293]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:676][298]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:726][303]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:775][308]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:817][312]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:866][317]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:915][322]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.19:964][327]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:013][332]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:063][337]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:104][341]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:154][346]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:209][350]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:254][353]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:296][357]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:347][362]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:396][367]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:446][372]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:488][376]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:539][381]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:590][386]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:633][390]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:684][395]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:735][400]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:779][404]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:829][409]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:875][413]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:926][418]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.20:969][422]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:021][427]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:063][431]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:116][436]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:167][441]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:212][445]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:261][449]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:305][453]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:355][458]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:407][463]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:449][467]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:502][472]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:545][476]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:600][481]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:644][485]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:689][489]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:740][493]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:789][497]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:837][501]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:886][505]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:935][509]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.21:980][513]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:028][517]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:075][521]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:124][525]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:171][529]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:220][533]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:271][536]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:315][540]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:361][544]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:411][548]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:463][552]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:513][556]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:562][560]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:611][564]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:648][567]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:699][571]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:750][575]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:801][579]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:840][582]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:891][586]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:944][590]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.22:992][593]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.23:036][596]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.23:090][600]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.23:130][603]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.23:183][607]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.23:224][610]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.31.23:282][613]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.33.04:118][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.33.15:849][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.33.15:849][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-20.33.15:849][338]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2020.02.06-20.33.15:857][338]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.33.15:922][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-20.33.15:923][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.33.16:023][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-20.33.16:076][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.02.06-20.33.16:103][339]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.06-20.41.19:159][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ProceduralGameMode" FILE="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Content/BP_ProceduralGameMode.uasset" SILENT=true
+[2020.02.06-20.41.19:312][988]LogSavePackage: Moving 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Saved/BP_ProceduralGameMode3A67A9FB453530DDA3C68B9C2DAFAD30.tmp' to 'D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Content/BP_ProceduralGameMode.uasset'
+[2020.02.06-20.41.21:251][153]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.06-20.41.21:282][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.41.21:282][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.06-20.41.21:282][153]PIE: New page: PIE session: Untitled (6 Feb 2020 20:41:21)
+[2020.02.06-20.41.21:282][153]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2020.02.06-20.41.21:284][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001719s)
+[2020.02.06-20.41.21:285][153]LogAIModule: Creating AISystem for world Untitled
+[2020.02.06-20.41.21:285][153]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2020.02.06-20.41.21:285][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.002800s)
+[2020.02.06-20.41.21:332][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.06-20.41.21:345][153]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.06-20.41.21:396][153]LogInit: FAudioDevice initialized.
+[2020.02.06-20.41.21:409][153]LogLoad: Game class is 'BP_ProceduralGameMode_C'
+[2020.02.06-20.41.21:411][153]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2020.02.06-20.41.21
+[2020.02.06-20.41.21:411][153]LogWorld: Bringing up level for play took: 0.000838
+[2020.02.06-20.41.21:412][153]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.02.06-20.41.21:416][153]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.126
+[2020.02.06-20.41.21:416][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.41.21:472][154]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:491][154]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:510][154]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:546][155]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:567][155]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:590][156]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:612][157]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:653][161]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:702][166]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:750][171]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:798][176]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:846][181]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:893][186]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:947][191]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.21:995][196]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:045][201]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:086][205]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:136][210]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:186][215]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:235][220]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:283][225]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:331][230]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:379][235]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:422][239]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:473][244]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:520][249]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:572][254]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:613][258]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:663][263]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:713][268]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:763][273]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:806][277]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:856][282]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:906][287]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:955][291]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.22:998][295]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:049][300]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:099][305]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:149][310]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:190][314]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:241][319]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:289][324]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:338][329]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:386][333]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:436][338]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:485][343]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:526][347]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:574][352]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:626][356]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:671][360]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:721][364]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:765][368]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:818][373]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:862][377]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:915][382]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.23:966][386]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:009][390]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:054][394]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:108][399]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:156][403]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:202][407]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:247][411]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:301][416]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:344][420]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:400][425]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:447][429]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:493][433]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:538][437]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:584][441]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:634][445]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:682][449]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:731][453]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:782][457]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:831][461]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:879][465]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:928][469]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.24:974][472]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:018][476]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:066][480]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:111][483]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:161][487]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:212][491]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:265][495]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:306][498]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:356][501]LogBlueprintUserMessages: [BP_ProceduralGameMode_C_0] Reset
+[2020.02.06-20.41.25:389][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.41.25:389][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-20.41.25:389][503]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Untitled
+[2020.02.06-20.41.25:395][503]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.25:459][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.06-20.41.25:459][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/Untitled.Untitled_C' with ClassGeneratedBy '/Game/Untitled.Untitled:PersistentLevel.Untitled'
+[2020.02.06-20.41.25:548][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.06-20.41.25:586][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.06-20.41.25:611][504]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.06-20.41.26:493][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.06-20.41.26:633][619]LogAssetEditorManager: Opening Asset editor for World /Game/Untitled.Untitled
+[2020.02.06-20.41.26:674][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.02.06-20.41.26:675][619]Cmd: MAP LOAD FILE="D:/1800005/Seminar Work/Year-2-Seminar-Sheet-Work/Sheet 7/ProceduralGeneration/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.06-20.41.26:675][619]LightingResults: New page: Lighting Build
+[2020.02.06-20.41.26:676][619]LoadErrors: New page: Loading map: Untitled.umap
+[2020.02.06-20.41.26:676][619]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.26:677][619]MapCheck: New page: Map Check
+[2020.02.06-20.41.26:677][619]LightingResults: New page: Lighting Build
+[2020.02.06-20.41.26:720][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.02.06-20.41.26:732][619]LogAIModule: Creating AISystem for world Untitled
+[2020.02.06-20.41.26:842][619]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.06-20.41.26:890][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.02.06-20.41.26:913][619]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.06-20.41.26:913][619]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2020.02.06-20.41.26:914][619]LogFileHelpers: Loading map 'Untitled' took 0.240
+[2020.02.06-20.41.36:611][394]LogSlate: Window 'BP_TerrainBase' being destroyed
+[2020.02.06-20.41.36:617][394]LogSlate: Window 'BP_TerrainBase' being destroyed
+[2020.02.06-20.41.36:632][394]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.36:707][394]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.06-20.41.36:707][394]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.36:758][394]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.06-20.41.36:758][394]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.36:803][394]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.06-20.41.36:803][394]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.36:861][394]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.06-20.41.36:861][394]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.37:400][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.06-20.41.37:482][443]LogSlate: Window 'Content Browser 2' being destroyed
+[2020.02.06-20.41.37:493][443]LogSlate: Window 'Message Log' being destroyed
+[2020.02.06-20.41.37:496][443]LogSlate: Window 'ProceduralGeneration - Unreal Editor' being destroyed
+[2020.02.06-20.41.37:496][443]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.06-20.41.37:623][444]Cmd: QUIT_EDITOR
+[2020.02.06-20.41.38:438][444]LogExit: Preparing to exit.
+[2020.02.06-20.41.39:113][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:113][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:113][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:113][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:113][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:113][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:113][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:113][444]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.39:116][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:116][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:116][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:116][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:116][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:116][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:116][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:116][444]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.39:117][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:117][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:117][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:117][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:117][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:117][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:117][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:117][444]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.39:118][444]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.39:119][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:119][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:119][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:119][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:119][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:119][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:119][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:119][444]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.39:120][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:120][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:120][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:120][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:120][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:120][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:120][444]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.06-20.41.39:120][444]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.39:153][444]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.06-20.41.39:164][444]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.06-20.41.39:165][444]LogExit: Editor shut down
+[2020.02.06-20.41.39:165][444]LogExit: Transaction tracking system shut down
+[2020.02.06-20.41.39:524][444]LogExit: Object subsystem successfully closed.
+[2020.02.06-20.41.39:549][444]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.06-20.41.39:597][444]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (678)
+[2020.02.06-20.41.39:597][444]LogModuleManager: Shutting down and abandoning module Voice (676)
+[2020.02.06-20.41.39:597][444]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2020.02.06-20.41.39:597][444]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2020.02.06-20.41.39:597][444]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2020.02.06-20.41.39:597][444]LogModuleManager: Shutting down and abandoning module AddContentDialog (668)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module WidgetCarousel (667)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module EditorWidgets (664)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module CollectionManager (662)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (660)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2020.02.06-20.41.39:598][444]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2020.02.06-20.41.39:599][444]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2020.02.06-20.41.39:600][444]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2020.02.06-20.41.39:600][444]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2020.02.06-20.41.39:600][444]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2020.02.06-20.41.41:547][444]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2020.02.06-20.41.41:547][444]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2020.02.06-20.41.41:547][444]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2020.02.06-20.41.41:547][444]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2020.02.06-20.41.41:548][444]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2020.02.06-20.41.41:549][444]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2020.02.06-20.41.41:549][444]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2020.02.06-20.41.41:549][444]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2020.02.06-20.41.41:549][444]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2020.02.06-20.41.41:549][444]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2020.02.06-20.41.41:549][444]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2020.02.06-20.41.41:601][444]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2020.02.06-20.41.41:602][444]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2020.02.06-20.41.41:602][444]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2020.02.06-20.41.41:622][444]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2020.02.06-20.41.41:622][444]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2020.02.06-20.41.41:622][444]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2020.02.06-20.41.41:623][444]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2020.02.06-20.41.41:623][444]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2020.02.06-20.41.41:623][444]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2020.02.06-20.41.41:623][444]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.02.06-20.41.41:623][444]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.02.06-20.41.41:623][444]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.02.06-20.41.41:631][444]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.02.06-20.41.41:631][444]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.02.06-20.41.41:631][444]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.02.06-20.41.41:632][444]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2020.02.06-20.41.41:640][444]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2020.02.06-20.41.41:819][444]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2020.02.06-20.41.41:820][444]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2020.02.06-20.41.41:821][444]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module ProceduralGeneration (310)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.02.06-20.41.41:822][444]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.02.06-20.41.41:923][444]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.02.06-20.41.42:024][444]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.02.06-20.41.42:024][444]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.02.06-20.41.42:025][444]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.02.06-20.41.42:026][444]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.02.06-20.41.42:026][444]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.02.06-20.41.42:026][444]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.02.06-20.41.42:026][444]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.02.06-20.41.42:027][444]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.02.06-20.41.42:028][444]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.02.06-20.41.42:028][444]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.02.06-20.41.42:028][444]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.06-20.41.42:028][444]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.02.06-20.41.42:028][444]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.02.06-20.41.42:030][444]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.02.06-20.41.42:031][444]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.02.06-20.41.42:031][444]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.02.06-20.41.42:031][444]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.02.06-20.41.42:031][444]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.02.06-20.41.42:031][444]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.02.06-20.41.42:032][444]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.02.06-20.41.42:048][444]LogDerivedDataCache: Shutdown
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.02.06-20.41.42:048][444]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.02.06-20.41.42:049][444]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.02.06-20.41.42:049][444]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.02.06-20.41.42:049][444]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.02.06-20.41.42:049][444]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.02.06-20.41.42:049][444]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.06-20.41.42:050][444]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.02.06-20.41.42:051][444]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.02.06-20.41.42:051][444]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.02.06-20.41.42:051][444]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.02.06-20.41.42:051][444]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.02.06-20.41.42:052][444]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.02.06-20.41.42:052][444]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.02.06-20.41.42:054][444]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.02.06-20.41.42:054][444]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.06-20.41.42:066][444]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.02.06-20.41.42:066][444]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.02.06-20.41.42:066][444]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.02.06-20.41.42:066][444]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.02.06-20.41.42:066][444]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.02.06-20.41.42:067][444]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.02.06-20.41.42:067][444]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.02.06-20.41.42:068][444]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.02.06-20.41.42:068][444]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.02.06-20.41.42:068][444]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.02.06-20.41.42:069][444]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.02.06-20.41.42:069][444]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.02.06-20.41.42:094][444]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.02.06-20.41.42:094][444]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.06-20.41.42:094][444]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B4A5D8A-4794-FCDA-6BD9-3F842C4539CF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=66c034334c46e55f49a994a50fd0318d%7Ccc7ea1a30a4a44d5989dadc140765107%7C4f601dcd-9d47-4d9b-b31b-982af5fdc32d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.06-20.41.42:125][444]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.02.06-20.41.42:127][444]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.02.06-20.41.42:130][444]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.02.06-20.41.42:132][444]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.02.06-20.41.42:132][444]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.02.06-20.41.42:133][444]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.02.06-20.41.42:133][444]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.06-20.41.42:133][444]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.06-20.41.42:133][444]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.06-20.41.42:133][444]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.06-20.41.42:133][444]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.06-20.41.42:133][444]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.06-20.41.42:134][444]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.06-20.41.42:134][444]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.06-20.41.42:134][444]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.06-20.41.42:136][444]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.06-20.41.42:137][444]LogD3D11RHI: Shutdown
+[2020.02.06-20.41.42:137][444]LogD3D11RHI: CleanupD3DDevice
+[2020.02.06-20.41.42:137][444]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.06-20.41.42:137][444]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.06-20.41.42:137][444]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.06-20.41.42:336][444]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.06-20.41.42:359][444]LogExit: Exiting.
+[2020.02.06-20.41.42:380][444]Log file closed, 02/06/20 20:41:42
