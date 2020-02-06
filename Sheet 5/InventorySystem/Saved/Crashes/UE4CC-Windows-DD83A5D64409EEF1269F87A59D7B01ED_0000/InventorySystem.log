@@ -1,0 +1,1112 @@
+﻿Log file open, 02/05/20 21:40:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InventorySystem
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124382
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Warning: Incompatible or missing module: InventorySystem
+Running C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/InventorySystem.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+Creating makefile for InventorySystemEditor (.uproject file is newer)
+@progress push 5%
+Parsing headers for InventorySystemEditor
+  Running UnrealHeaderTool "C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\InventorySystem.uproject" "C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\InventorySystemEditor\Development\InventorySystemEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for InventorySystemEditor in 13.6268854 seconds
+@progress pop
+Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 11 actions with 8 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 9%
+  [1/11] Default.rc2
+  @progress 'Compiling C++ source code...' 18%
+  [2/11] SharedPCH.Engine.cpp
+  @progress 'Compiling C++ source code...' 27%
+  [3/11] InventorySystem.cpp
+  @progress 'Compiling C++ source code...' 36%
+  [4/11] InventorySystem.init.gen.cpp
+  @progress 'Compiling C++ source code...' 45%
+  [5/11] CPP_ItemBase.cpp
+  @progress 'Compiling C++ source code...' 55%
+  [6/11] CPP_ItemBase.gen.cpp
+  @progress 'Compiling C++ source code...' 64%
+  [7/11] InventorySystemGameModeBase.cpp
+  @progress 'Compiling C++ source code...' 73%
+  [8/11] InventorySystemGameModeBase.gen.cpp
+  @progress 'Compiling C++ source code...' 82%
+  [9/11] UE4Editor-InventorySystem.lib
+     Creating library C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\UE4Editor-InventorySystem.lib and object C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\UE4Editor-InventorySystem.exp
+  @progress 'Compiling C++ source code...' 91%
+  [10/11] UE4Editor-InventorySystem.dll
+     Creating library C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\UE4Editor-InventorySystem.suppressed.lib and object C:\Users\fowke\Documents\1. Uni\Year-2-Seminar-Sheet-Work\Sheet 5\InventorySystem\Intermediate\Build\Win64\UE4Editor\Development\InventorySystem\UE4Editor-InventorySystem.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [11/11] InventorySystemEditor.target
+Total time in Parallel executor: 30.18 seconds
+Total execution time: 58.17 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=YeeeetMachine -epicuserid=cc7ea1a30a4a44d5989dadc140765107 -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.05-21.41.14:973][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.05-21.41.14:973][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.05-21.41.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2020.02.05-21.41.14:973][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.05-21.41.14:973][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.05-21.41.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2020.02.05-21.41.14:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2020.02.05-21.41.14:973][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.05-21.41.14:973][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.05-21.41.14:973][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.05-21.41.14:974][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2020.02.05-21.41.14:974][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2020.02.05-21.41.14:986][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-21.41.14:986][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-21.41.14:987][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-21.41.14:988][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-21.41.14:988][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.05-21.41.14:997][  0]LogHAL: Display: Platform has ~ 32 GB [34308349952 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.05-21.41.14:997][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.05-21.41.14:997][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.05-21.41.14:997][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.05-21.41.14:998][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.05-21.41.14:999][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Scalability.ini]
+[2020.02.05-21.41.14:999][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.05-21.41.14:999][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.05-21.41.14:999][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.05-21.41.14:999][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.05-21.41.14:999][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.05-21.41.14:999][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Config/Windows/Engine.ini]
+[2020.02.05-21.41.14:999][  0]LogInit: Computer: GEMINI
+[2020.02.05-21.41.14:999][  0]LogInit: User: fowke
+[2020.02.05-21.41.14:999][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.05-21.41.14:999][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.05-21.41.14:999][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.02.05-21.41.14:999][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.05-21.41.14:999][  0]LogMemory: Process Physical Memory: 108.77 MB used, 108.77 MB peak
+[2020.02.05-21.41.14:999][  0]LogMemory: Process Virtual Memory: 89.38 MB used, 89.38 MB peak
+[2020.02.05-21.41.14:999][  0]LogMemory: Physical Memory: 15158.23 MB used,  17560.76 MB free, 32718.99 MB total
+[2020.02.05-21.41.14:999][  0]LogMemory: Virtual Memory: 4706.03 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2020.02.05-21.41.15:003][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.05-21.41.15:177][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.05-21.41.15:177][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.05-21.41.15:178][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.05-21.41.15:552][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.05-21.41.15:728][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.05-21.41.15:728][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.05-21.41.19:074][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-21.41.19:074][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.05-21.41.19:155][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.02.05-21.41.19:155][  0]LogD3D11RHI:       8081/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.02.05-21.41.19:159][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.05-21.41.19:159][  0]LogD3D11RHI:       0/0/16359 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.05-21.41.19:159][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.05-21.41.19:171][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.05-21.41.19:171][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.05-21.41.19:171][  0]LogWindows: EnumDisplayDevices:
+[2020.02.05-21.41.19:172][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.02.05-21.41.19:172][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.02.05-21.41.19:173][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.02.05-21.41.19:173][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.05-21.41.19:174][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.05-21.41.19:174][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.02.05-21.41.19:174][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.02.05-21.41.19:174][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.02.05-21.41.19:174][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.02.05-21.41.19:226][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.05-21.41.19:259][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.05-21.41.19:902][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.05-21.41.19:936][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.05-21.41.19:961][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.05-21.41.19:982][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.05-21.41.20:017][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.05-21.41.20:037][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.05-21.41.20:057][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.05-21.41.20:071][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.05-21.41.20:078][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.05-21.41.20:154][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.05-21.41.20:157][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.05-21.41.20:219][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.05-21.41.20:219][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.05-21.41.20:243][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.05-21.41.20:243][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.05-21.41.20:257][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.05-21.41.20:270][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.05-21.41.20:282][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.05-21.41.20:317][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.05-21.41.20:368][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.05-21.41.20:368][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.05-21.41.20:368][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.05-21.41.20:431][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.05-21.41.20:541][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Intermediate/Shaders/WorkingDirectory/30680/).
+[2020.02.05-21.41.20:542][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fowke/AppData/Local/Temp/UnrealShaderWorkingDir/41F844F242A908BACF8BCD85445E2183/'.
+[2020.02.05-21.41.20:544][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.05-21.41.20:544][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.05-21.41.20:545][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.05-21.41.24:036][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.05-21.41.24:093][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/fowke/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.05-21.41.24:093][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fowke/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.05-21.41.24:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.05-21.41.24:093][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.05-21.41.24:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-21.41.24:093][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.05-21.41.24:115][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.05-21.41.24:115][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.05-21.41.24:115][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.05-21.41.24:116][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fowke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.05-21.41.24:116][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.05-21.41.24:116][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.05-21.41.24:140][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.05-21.41.24:143][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.05-21.41.24:158][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.05-21.41.24:435][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.02.05-21.41.24:777][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.05-21.41.25:074][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.05-21.41.25:074][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.05-21.41.25:074][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.05-21.41.25:074][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.05-21.41.25:074][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.05-21.41.25:112][  0]LogNetVersion: InventorySystem 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1187415401)
+[2020.02.05-21.41.26:316][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.101361 seconds
+[2020.02.05-21.41.26:326][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.05-21.41.26:326][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.05-21.41.26:326][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.05-21.41.29:554][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.05-21.41.29:558][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.05-21.41.29:649][  0]SourceControl: Source control is disabled
+[2020.02.05-21.41.29:649][  0]SourceControl: Source control is disabled
+[2020.02.05-21.41.29:651][  0]SourceControl: Source control is disabled
+[2020.02.05-21.41.29:653][  0]SourceControl: Source control is disabled
+[2020.02.05-21.41.29:810][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.05-21.41.30:183][  0]LogOcInput: OculusInput pre-init called
+[2020.02.05-21.41.30:192][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.05-21.41.30:192][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.05-21.41.30:294][  0]LogEngine: Initializing Engine...
+[2020.02.05-21.41.30:296][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.05-21.41.30:298][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.05-21.41.30:655][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.05-21.41.30:680][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.05-21.41.30:735][  0]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-21.41.30:760][  0]LogInit: FAudioDevice initialized.
+[2020.02.05-21.41.30:760][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.05-21.41.30:822][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/fowke/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.05-21.41.30:832][  0]LogInit: Texture streaming: Enabled
+[2020.02.05-21.41.30:864][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.05-21.41.30:992][  0]LogInit: Transaction tracking system initialized
+[2020.02.05-21.41.31:053][  0]BlueprintLog: New page: Editor Load
+[2020.02.05-21.41.31:165][  0]LocalizationService: Localization service is disabled
+[2020.02.05-21.41.31:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/' took 0.01s
+[2020.02.05-21.41.31:527][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.05-21.41.31:527][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.05-21.41.31:899][  0]SourceControl: Source control is disabled
+[2020.02.05-21.41.31:899][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.05-21.41.31:910][  0]LightingResults: New page: Lighting Build
+[2020.02.05-21.41.31:914][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-21.41.31:915][  0]MapCheck: New page: Map Check
+[2020.02.05-21.41.31:915][  0]LightingResults: New page: Lighting Build
+[2020.02.05-21.41.31:941][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.05-21.41.32:046][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.05-21.41.32:052][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.05-21.41.32:079][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.05-21.41.32:079][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.05-21.41.32:079][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2020.02.05-21.41.32:079][  0]LogFileHelpers: Loading map 'Template_Default' took 0.180
+[2020.02.05-21.41.32:221][  0]LogCollectionManager: Loaded 0 collections in 0.002930 seconds
+[2020.02.05-21.41.32:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/Collections/' took 0.00s
+[2020.02.05-21.41.32:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Developers/fowke/Collections/' took 0.00s
+[2020.02.05-21.41.32:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Collections/' took 0.00s
+[2020.02.05-21.41.32:244][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.02.05-21.41.32:260][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2865 classes and 683 folders.
+[2020.02.05-21.41.32:278][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.05-21.41.32:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.05-21.41.32:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.41.32:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.41.32:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.41.32:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.41.32:742][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.02.05-21.41.32:897][  0]LogSlate: Took 0.007009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.05-21.41.32:906][  0]LogSlate: Took 0.006866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.05-21.41.32:918][  0]LogSlate: Took 0.009473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.05-21.41.33:060][  0]LogRenderer: Reallocating scene render targets to support 528x932 Format 10 NumSamples 1 (Frame:1).
+[2020.02.05-21.41.33:218][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.05-21.41.33:219][  0]LogLoad: (Engine Initialization) Total time: 80.40 seconds
+[2020.02.05-21.41.33:219][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.05-21.41.33:259][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.05-21.41.37:321][210]LogSlate: Took 0.007934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-21.41.37:570][225]LogAssetRegistry: Asset discovery search completed in 13.1363 seconds
+[2020.02.05-21.41.37:574][225]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.02.05-21.41.37:574][225]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2020.02.05-21.41.38:863][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.41.38:951][306]LogRenderer: Reallocating scene render targets to support 536x932 Format 10 NumSamples 1 (Frame:306).
+[2020.02.05-21.41.38:981][307]LogRenderer: Reallocating scene render targets to support 552x932 Format 10 NumSamples 1 (Frame:308).
+[2020.02.05-21.41.39:027][308]LogRenderer: Reallocating scene render targets to support 636x932 Format 10 NumSamples 1 (Frame:310).
+[2020.02.05-21.41.39:088][309]LogRenderer: Reallocating scene render targets to support 760x932 Format 10 NumSamples 1 (Frame:312).
+[2020.02.05-21.41.39:142][310]LogRenderer: Reallocating scene render targets to support 836x932 Format 10 NumSamples 1 (Frame:314).
+[2020.02.05-21.41.39:178][311]LogRenderer: Reallocating scene render targets to support 856x932 Format 10 NumSamples 1 (Frame:316).
+[2020.02.05-21.41.39:283][312]LogRenderer: Reallocating scene render targets to support 888x932 Format 10 NumSamples 1 (Frame:318).
+[2020.02.05-21.41.39:315][313]LogRenderer: Reallocating scene render targets to support 968x932 Format 10 NumSamples 1 (Frame:320).
+[2020.02.05-21.41.39:359][314]LogRenderer: Reallocating scene render targets to support 984x932 Format 10 NumSamples 1 (Frame:322).
+[2020.02.05-21.41.39:468][315]LogRenderer: Reallocating scene render targets to support 992x932 Format 10 NumSamples 1 (Frame:324).
+[2020.02.05-21.41.39:498][316]LogRenderer: Reallocating scene render targets to support 1024x932 Format 10 NumSamples 1 (Frame:326).
+[2020.02.05-21.41.39:533][317]LogRenderer: Reallocating scene render targets to support 1036x932 Format 10 NumSamples 1 (Frame:328).
+[2020.02.05-21.41.39:641][318]LogRenderer: Reallocating scene render targets to support 1048x932 Format 10 NumSamples 1 (Frame:330).
+[2020.02.05-21.41.39:670][319]LogRenderer: Reallocating scene render targets to support 1080x932 Format 10 NumSamples 1 (Frame:332).
+[2020.02.05-21.41.39:712][320]LogRenderer: Reallocating scene render targets to support 1084x932 Format 10 NumSamples 1 (Frame:334).
+[2020.02.05-21.41.39:817][321]LogRenderer: Reallocating scene render targets to support 1092x932 Format 10 NumSamples 1 (Frame:336).
+[2020.02.05-21.41.39:849][322]LogRenderer: Reallocating scene render targets to support 1100x932 Format 10 NumSamples 1 (Frame:338).
+[2020.02.05-21.41.39:884][324]LogRenderer: Reallocating scene render targets to support 1104x932 Format 10 NumSamples 1 (Frame:340).
+[2020.02.05-21.41.39:926][326]LogRenderer: Reallocating scene render targets to support 1112x932 Format 10 NumSamples 1 (Frame:344).
+[2020.02.05-21.41.39:965][327]LogRenderer: Reallocating scene render targets to support 1116x932 Format 10 NumSamples 1 (Frame:346).
+[2020.02.05-21.41.39:994][328]LogRenderer: Reallocating scene render targets to support 1128x932 Format 10 NumSamples 1 (Frame:348).
+[2020.02.05-21.41.40:022][329]LogRenderer: Reallocating scene render targets to support 1136x932 Format 10 NumSamples 1 (Frame:350).
+[2020.02.05-21.41.40:050][330]LogRenderer: Reallocating scene render targets to support 1148x932 Format 10 NumSamples 1 (Frame:352).
+[2020.02.05-21.41.40:075][331]LogRenderer: Reallocating scene render targets to support 1156x932 Format 10 NumSamples 1 (Frame:354).
+[2020.02.05-21.41.40:110][332]LogRenderer: Reallocating scene render targets to support 1168x932 Format 10 NumSamples 1 (Frame:356).
+[2020.02.05-21.41.40:135][333]LogRenderer: Reallocating scene render targets to support 1184x932 Format 10 NumSamples 1 (Frame:358).
+[2020.02.05-21.41.40:164][334]LogRenderer: Reallocating scene render targets to support 1192x932 Format 10 NumSamples 1 (Frame:360).
+[2020.02.05-21.41.40:193][335]LogRenderer: Reallocating scene render targets to support 1208x932 Format 10 NumSamples 1 (Frame:362).
+[2020.02.05-21.41.40:227][336]LogRenderer: Reallocating scene render targets to support 1224x932 Format 10 NumSamples 1 (Frame:364).
+[2020.02.05-21.41.40:251][337]LogRenderer: Reallocating scene render targets to support 1244x932 Format 10 NumSamples 1 (Frame:366).
+[2020.02.05-21.41.40:279][338]LogRenderer: Reallocating scene render targets to support 1248x932 Format 10 NumSamples 1 (Frame:368).
+[2020.02.05-21.41.40:436][347]LogRenderer: Reallocating scene render targets to support 1252x932 Format 10 NumSamples 1 (Frame:370).
+[2020.02.05-21.41.40:467][348]LogRenderer: Reallocating scene render targets to support 1256x932 Format 10 NumSamples 1 (Frame:372).
+[2020.02.05-21.41.40:496][349]LogRenderer: Reallocating scene render targets to support 1276x932 Format 10 NumSamples 1 (Frame:374).
+[2020.02.05-21.41.40:526][350]LogRenderer: Reallocating scene render targets to support 1284x932 Format 10 NumSamples 1 (Frame:376).
+[2020.02.05-21.43.58:729][736]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.05-21.44.11:156][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.44.11:857][437]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.05-21.44.11:867][437]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/InventorySystem/InventoryComponent.InventoryComponent
+[2020.02.05-21.44.12:319][437]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.05-21.44.13:322][437]LogSlate: Took 0.010361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.05-21.46.58:872][416]LogSlate: Took 0.005491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.05-21.47.01:617][503]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/InventorySystem/ItemStack.ItemStack
+[2020.02.05-21.47.08:574][679]LogSlate: Took 0.006081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.05-21.48.15:260][275]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent59436FC14403FD890A1753AAD6C7F427.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.48.15:619][284]BlueprintLog: New page: Compile InventoryComponent
+[2020.02.05-21.48.15:683][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.05-21.48.16:066][287]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent212517ED4B426226EF261CB72E12618F.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.48.20:212][381]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2020.02.05-21.48.20:695][381]LoadErrors: Error: /Game/Blueprints/InventorySystem/InventoryComponent : Failed import for ClassProperty /Game/Blueprints/InventorySystem/ItemStack.ItemStack:ClassReference_16_632601D94C2EBD3DDC39508F4E65CC77 Referenced by export Function /Game/Blueprints/InventorySystem/InventoryComponent.InventoryComponent_C:AddItem Referenced by export Function /Game/Blueprints/InventorySystem/InventoryComponent.InventoryComponent_C:RemoveItem
+[2020.02.05-21.48.54:761][161]BlueprintLog: New page: Compile BP_Character
+[2020.02.05-21.48.55:027][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.02.05-21.49.10:308][540]BlueprintLog: New page: Compile InventoryComponent
+[2020.02.05-21.49.10:574][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.05-21.49.52:273][510]BlueprintLog: New page: Compile InventoryComponent
+[2020.02.05-21.49.52:322][510]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.05-21.49.52:561][510]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.02.05-21.49.53:418][522]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent8001B07742B63A6B5801E8B7EC91AC94.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.49.54:072][531]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent7355B236425CACAF7C3E2189BA532941.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.49.56:446][589]LogSlate: Window 'ItemStack' being destroyed
+[2020.02.05-21.49.56:497][589]LogSlate: Window 'ItemStack' being destroyed
+[2020.02.05-21.49.57:535][612]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-21.49.57:563][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.05-21.49.57:563][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-21.49.57:564][612]PIE: New page: PIE session: Untitled_1 (5 Feb 2020 21:49:57)
+[2020.02.05-21.49.57:565][612]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.05-21.49.57:567][612]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.02.05-21.49.57:570][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003075s)
+[2020.02.05-21.49.57:571][612]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.05-21.49.57:571][612]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2020.02.05-21.49.57:571][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004762s)
+[2020.02.05-21.49.57:612][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.02.05-21.49.57:642][612]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-21.49.57:658][612]LogInit: FAudioDevice initialized.
+[2020.02.05-21.49.57:665][612]LogLoad: Game class is 'GameModeBase'
+[2020.02.05-21.49.57:667][612]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.02.05-21.49.57
+[2020.02.05-21.49.57:668][612]LogWorld: Bringing up level for play took: 0.001699
+[2020.02.05-21.49.57:669][612]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.05-21.49.57:687][612]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.05-21.49.57:688][612]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.38
+[2020.02.05-21.49.57:689][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.05-21.49.59:485][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.05-21.49.59:486][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.49.59:486][670]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.02.05-21.49.59:486][670]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-21.49.59:527][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-21.49.59:528][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.02.05-21.49.59:575][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.49.59:603][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.05-21.49.59:638][671]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.05-21.50.01:681][732]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.05-21.50.03:023][732]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.05-21.50.03:826][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.50.05:389][788]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.02.05-21.50.05:389][788]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.02.05-21.50.05:389][788]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.02.05-21.50.05:389][788]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X128)
+[2020.02.05-21.50.05:389][788]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.02.05-21.50.05:389][788]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.02.05-21.50.05:389][788]LogMaterial: Display: Missing cached shader map for material MetalMat, compiling. 
+[2020.02.05-21.50.05:462][788]LogMaterial: Display: Missing cached shader map for material WoodenMat, compiling. 
+[2020.02.05-21.50.05:479][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.02.05-21.50.05:479][788]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.02.05-21.50.05:479][788]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.05-21.50.05:479][788]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.05-21.50.05:479][788]LogMaterial: Display: Missing cached shader map for material SightsMat, compiling. 
+[2020.02.05-21.50.05:497][788]LogMaterial: Display: Missing cached shader map for material MagazineMat, compiling. 
+[2020.02.05-21.50.05:519][788]LogMaterial: Display: Missing cached shader map for material BarrelMat, compiling. 
+[2020.02.05-21.50.05:545][788]LogMaterial: Display: Missing cached shader map for material FrameMat, compiling. 
+[2020.02.05-21.50.05:569][788]LogMaterial: Display: Missing cached shader map for material ArmourBlue, compiling. 
+[2020.02.05-21.50.05:592][788]LogMaterial: Display: Missing cached shader map for material MedkitRed, compiling. 
+[2020.02.05-21.50.05:628][788]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-21.50.05:649][788]LogAssetEditorManager: Opening Asset editor for World /Game/TestMap.TestMap
+[2020.02.05-21.50.05:696][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.02.05-21.50.07:332][788]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 154
+[2020.02.05-21.50.07:350][788]LogSlate: Window 'Save Content' being destroyed
+[2020.02.05-21.50.07:358][788]Cmd: MAP LOAD FILE="../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.05-21.50.07:361][788]LightingResults: New page: Lighting Build
+[2020.02.05-21.50.07:363][788]LoadErrors: New page: Loading map: TestMap.umap
+[2020.02.05-21.50.07:364][788]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-21.50.07:364][788]MapCheck: New page: Map Check
+[2020.02.05-21.50.07:364][788]LightingResults: New page: Lighting Build
+[2020.02.05-21.50.07:414][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.02.05-21.50.07:622][788]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.05-21.50.07:676][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2020.02.05-21.50.07:681][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.02.05-21.50.07:736][788]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.05-21.50.07:736][788]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.243ms to complete.
+[2020.02.05-21.50.07:736][788]LogFileHelpers: Loading map 'TestMap' took 0.381
+[2020.02.05-21.50.07:807][788]LoadErrors: Error: /Game/Blueprints/InventorySystem/InventoryComponent : Failed import for ClassProperty /Game/Blueprints/InventorySystem/ItemStack.ItemStack:ClassReference_16_632601D94C2EBD3DDC39508F4E65CC77 Referenced by export Function /Game/Blueprints/InventorySystem/InventoryComponent.InventoryComponent_C:AddItem Referenced by export Function /Game/Blueprints/InventorySystem/InventoryComponent.InventoryComponent_C:RemoveItem
+[2020.02.05-21.50.08:168][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2020.02.05-21.50.09:099][830]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 124
+[2020.02.05-21.50.10:689][859]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/BP_Character9D471B634C60F6E94E246EA4303017B3.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/BP_Character.uasset'
+[2020.02.05-21.50.10:791][862]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 114
+[2020.02.05-21.50.11:249][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2020.02.05-21.50.11:758][876]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent96BEDE064A440C978AC1129764A2BCD0.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.50.13:440][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2020.02.05-21.50.14:346][931]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2020.02.05-21.50.14:588][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2020.02.05-21.50.16:044][967]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2020.02.05-21.50.17:455][  9]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.02.05-21.50.18:672][ 44]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.02.05-21.50.18:868][ 50]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.02.05-21.50.19:750][ 73]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.05-21.50.21:891][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.02.05-21.50.21:994][140]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.02.05-21.50.22:337][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.05-21.50.23:348][171]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.05-21.50.23:587][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.05-21.50.24:051][186]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.05-21.50.24:247][193]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.05-21.50.29:119][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.50.34:021][524]BlueprintLog: New page: Compile InventoryComponent
+[2020.02.05-21.50.34:319][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.02.05-21.50.35:614][553]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent587D81E14A1D1B6C2A0739A58F49E262.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.50.37:132][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.50.41:690][730]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-21.50.41:722][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.50.41:722][730]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.05-21.50.41:729][730]LogPlayLevel: [PlayLevel] Compiling BP_Character before play...
+[2020.02.05-21.50.42:017][730]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.02.05-21.50.42:017][730]LogPlayLevel: PlayLevel: Blueprint regeneration took 295 ms (1 blueprints)
+[2020.02.05-21.50.42:018][730]PIE: New page: PIE session: TestMap (5 Feb 2020 21:50:42)
+[2020.02.05-21.50.42:020][730]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2020.02.05-21.50.42:023][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003604s)
+[2020.02.05-21.50.42:025][730]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-21.50.42:025][730]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2020.02.05-21.50.42:025][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.005217s)
+[2020.02.05-21.50.42:064][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.05-21.50.42:094][730]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-21.50.42:108][730]LogInit: FAudioDevice initialized.
+[2020.02.05-21.50.42:118][730]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.05-21.50.42:120][730]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.02.05-21.50.42
+[2020.02.05-21.50.42:121][730]LogWorld: Bringing up level for play took: 0.001669
+[2020.02.05-21.50.42:121][730]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.05-21.50.42:127][730]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 0.818
+[2020.02.05-21.50.42:127][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.50.43:604][789]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_HandGun_C
+[2020.02.05-21.50.44:461][823]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Metal_C
+[2020.02.05-21.50.45:068][847]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Wood_C
+[2020.02.05-21.50.45:521][865]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Medkit_C
+[2020.02.05-21.50.47:586][947]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Armour_C
+[2020.02.05-21.50.48:394][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.50.48:394][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.50.48:394][979]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2020.02.05-21.50.48:394][979]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-21.50.48:433][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-21.50.48:433][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.50.48:477][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.50.48:482][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.05-21.50.48:513][980]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.05-21.50.49:700][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.51.03:675][498]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/BP_Character739A9209414BDEE92DACCB8BCD55F324.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/BP_Character.uasset'
+[2020.02.05-21.51.03:773][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.51.24:674][193]BlueprintLog: New page: Compile InventoryComponent
+[2020.02.05-21.51.24:973][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.02.05-21.51.25:500][200]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent0583A3FF4E3DC7C563F2D0B736999D0C.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.51.25:520][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.52.32:378][494]BlueprintLog: New page: Compile InventoryComponent
+[2020.02.05-21.52.32:425][494]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.02.05-21.52.32:701][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.02.05-21.52.33:452][508]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponentFB9E4F2942F58DBD86DBCE9435BB2A12.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.52.36:395][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.54.12:422][532]BlueprintLog: New page: Compile InventoryComponent
+[2020.02.05-21.54.12:729][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.02.05-21.54.12:847][532]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponent8DBC10FD47430012DEE681ACDA0BC830.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.54.13:519][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.54.22:874][830]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/InventorySystem/ItemStack.ItemStack
+[2020.02.05-21.54.24:609][876]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.02.05-21.54.24:883][876]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap1BB3B8BD409D3F7ADFFDA7AA091AEF41.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap.umap'
+[2020.02.05-21.54.24:929][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap_BuiltData" FILE="../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset" SILENT=true
+[2020.02.05-21.54.24:966][876]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap_BuiltDataB1D2EDAE4E26C9E4FA2E9BAF0EE37D78.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset'
+[2020.02.05-21.54.26:535][917]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/ItemStackF89C8F9B4D001A13FFBA88A9CC8C84A7.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/ItemStack.uasset'
+[2020.02.05-21.54.29:962][ 26]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD/ItemStackWidget.ItemStackWidget
+[2020.02.05-21.54.31:434][ 38]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD/ItemStackEntryWidget.ItemStackEntryWidget
+[2020.02.05-21.54.43:951][456]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/ItemStackEntryWidget6B5B78D240748DBC785D7883A8910641.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/HUD/ItemStackEntryWidget.uasset'
+[2020.02.05-21.55.08:322][223]BlueprintLog: New page: Compile ItemStackEntryWidget
+[2020.02.05-21.55.08:415][223]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2020.02.05-21.55.08:934][231]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/ItemStackEntryWidget158BDD3C469C03E98F61FC9931169B4A.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/HUD/ItemStackEntryWidget.uasset'
+[2020.02.05-21.55.09:665][258]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-21.55.09:722][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.55.09:722][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-21.55.09:722][258]PIE: New page: PIE session: TestMap (5 Feb 2020 21:55:09)
+[2020.02.05-21.55.09:722][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2020.02.05-21.55.09:725][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003442s)
+[2020.02.05-21.55.09:727][258]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-21.55.09:727][258]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2020.02.05-21.55.09:727][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.004842s)
+[2020.02.05-21.55.09:782][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.02.05-21.55.09:811][258]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-21.55.09:825][258]LogInit: FAudioDevice initialized.
+[2020.02.05-21.55.09:836][258]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.05-21.55.09:838][258]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.02.05-21.55.09
+[2020.02.05-21.55.09:838][258]LogWorld: Bringing up level for play took: 0.001880
+[2020.02.05-21.55.09:838][258]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.02.05-21.55.09:843][258]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 0.534
+[2020.02.05-21.55.09:843][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.55.11:004][304]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Metal_C
+[2020.02.05-21.55.12:666][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.55.15:628][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.55.15:629][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.55.15:629][485]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2020.02.05-21.55.15:629][485]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-21.55.15:676][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-21.55.15:676][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.55.15:735][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-21.55.15:741][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.02.05-21.55.15:770][486]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.05-21.57.50:462][518]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryComponentF5BE44534CEAF3B3F7720CA42C41956C.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2020.02.05-21.58.52:172][963]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-21.58.52:214][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.58.52:214][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-21.58.52:214][963]PIE: New page: PIE session: TestMap (5 Feb 2020 21:58:52)
+[2020.02.05-21.58.52:214][963]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2020.02.05-21.58.52:218][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003664s)
+[2020.02.05-21.58.52:218][963]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-21.58.52:218][963]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2020.02.05-21.58.52:218][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.005163s)
+[2020.02.05-21.58.52:279][963]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2020.02.05-21.58.52:314][963]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-21.58.52:332][963]LogInit: FAudioDevice initialized.
+[2020.02.05-21.58.52:345][963]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.05-21.58.52:347][963]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.02.05-21.58.52
+[2020.02.05-21.58.52:347][963]LogWorld: Bringing up level for play took: 0.001565
+[2020.02.05-21.58.52:348][963]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.02.05-21.58.52:351][963]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 1.043
+[2020.02.05-21.58.52:351][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-21.58.53:767][ 19]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Metal_C
+[2020.02.05-21.58.54:248][ 38]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_HandGun_C
+[2020.02.05-21.58.54:676][ 55]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Wood_C
+[2020.02.05-21.58.55:054][ 70]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Medkit_C
+[2020.02.05-21.58.55:457][ 86]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Armour_C
+[2020.02.05-21.59.11:426][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.59.53:678][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.59.55:443][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.59.56:754][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-21.59.58:191][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.00.00:811][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.00.48:786][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.00.49:990][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.00.49:991][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.00.49:991][705]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2020.02.05-22.00.49:991][705]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.00.50:037][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-22.00.50:037][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.00.50:093][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.00.50:099][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.05-22.00.50:129][706]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.05-22.01.09:544][280]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/Equip/BP_HandGun.BP_HandGun
+[2020.02.05-22.01.10:734][297]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/Equip/BP_EquipItem.BP_EquipItem
+[2020.02.05-22.01.57:529][868]BlueprintLog: New page: Compile BP_HandGun
+[2020.02.05-22.01.57:868][868]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.02.05-22.01.58:311][872]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/BP_HandGunAFD91DE74FA6E7CDB9E03E808CD3BDA1.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/Items/Equip/BP_HandGun.uasset'
+[2020.02.05-22.02.02:585][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-22.02.02:633][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.02.02:634][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-22.02.02:634][ 14]PIE: New page: PIE session: TestMap (5 Feb 2020 22:02:02)
+[2020.02.05-22.02.02:634][ 14]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2020.02.05-22.02.02:638][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004027s)
+[2020.02.05-22.02.02:639][ 14]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-22.02.02:639][ 14]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2020.02.05-22.02.02:639][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.005167s)
+[2020.02.05-22.02.02:700][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2020.02.05-22.02.02:731][ 14]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-22.02.02:748][ 14]LogInit: FAudioDevice initialized.
+[2020.02.05-22.02.02:755][ 14]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.05-22.02.02:757][ 14]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.02.05-22.02.02
+[2020.02.05-22.02.02:758][ 14]LogWorld: Bringing up level for play took: 0.001825
+[2020.02.05-22.02.02:758][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.02.05-22.02.02:761][ 14]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap -0.547
+[2020.02.05-22.02.02:761][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.02.05:711][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.02.05:711][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.02.05:711][189]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2020.02.05-22.02.05:711][189]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.02.05:744][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-22.02.05:745][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.02.05:801][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.02.05:806][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.02.05-22.02.05:830][190]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.05-22.02.07:473][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.02.44:556][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-22.02.44:601][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.02.44:602][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-22.02.44:602][539]PIE: New page: PIE session: TestMap (5 Feb 2020 22:02:44)
+[2020.02.05-22.02.44:602][539]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2020.02.05-22.02.44:606][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004213s)
+[2020.02.05-22.02.44:608][539]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-22.02.44:608][539]LogPlayLevel: PIE: World Init took: (0.001777s)
+[2020.02.05-22.02.44:608][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.006171s)
+[2020.02.05-22.02.44:667][539]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.02.05-22.02.44:698][539]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-22.02.44:713][539]LogInit: FAudioDevice initialized.
+[2020.02.05-22.02.44:726][539]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.05-22.02.44:728][539]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.02.05-22.02.44
+[2020.02.05-22.02.44:728][539]LogWorld: Bringing up level for play took: 0.001293
+[2020.02.05-22.02.44:729][539]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.02.05-22.02.44:732][539]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap -0.577
+[2020.02.05-22.02.44:732][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.04.25:563][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.04.28:644][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.04.28:644][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.04.28:644][153]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2020.02.05-22.04.28:644][153]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.04.28:700][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-22.04.28:700][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.04.28:765][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.04.28:774][153]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.02.05-22.04.28:835][154]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.05-22.04.43:074][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.04.44:173][681]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/Consumables/BP_ConsumableItem.BP_ConsumableItem
+[2020.02.05-22.04.53:414][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-22.04.56:797][ 22]LogEditorTransaction: Undo Add Component
+[2020.02.05-22.04.57:873][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-22.05.02:541][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.05-22.05.05:553][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.05.07:441][299]LogEditorTransaction: Undo Modify Component Scale
+[2020.02.05-22.05.11:247][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.05.29:413][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.05.35:819][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.05.36:070][199]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/Consumables/BP_Medkit.BP_Medkit
+[2020.02.05-22.05.41:304][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.05.43:032][415]BlueprintLog: New page: Compile BP_ConsumableItem
+[2020.02.05-22.05.43:405][415]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2020.02.05-22.05.48:491][553]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.05-22.06.22:580][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.07.49:552][559]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/BP_ConsumableItemCB8A63EA4DFD8107A765C09BFA29D066.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/Items/Consumables/BP_ConsumableItem.uasset'
+[2020.02.05-22.08.20:934][237]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.05-22.08.21:886][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.08.21:953][270]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-22.08.22:007][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.08.22:007][270]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.05-22.08.22:008][270]LogPlayLevel: [PlayLevel] Compiling BP_ConsumableItem before play...
+[2020.02.05-22.08.22:008][270]LogPlayLevel: [PlayLevel]   Compiling BP_Armour as a dependent...
+[2020.02.05-22.08.22:008][270]LogPlayLevel: [PlayLevel]   Compiling BP_Medkit as a dependent...
+[2020.02.05-22.08.22:296][270]LogPlayLevel: [PlayLevel] Compiling BP_HandGun before play...
+[2020.02.05-22.08.22:648][270]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.02.05-22.08.22:648][270]LogPlayLevel: PlayLevel: Blueprint regeneration took 642 ms (4 blueprints)
+[2020.02.05-22.08.22:648][270]PIE: New page: PIE session: TestMap (5 Feb 2020 22:08:22)
+[2020.02.05-22.08.22:648][270]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2020.02.05-22.08.22:652][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004027s)
+[2020.02.05-22.08.22:654][270]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-22.08.22:654][270]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2020.02.05-22.08.22:654][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.005846s)
+[2020.02.05-22.08.22:710][270]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.02.05-22.08.22:738][270]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-22.08.22:751][270]LogInit: FAudioDevice initialized.
+[2020.02.05-22.08.22:759][270]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.05-22.08.22:761][270]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.02.05-22.08.22
+[2020.02.05-22.08.22:762][270]LogWorld: Bringing up level for play took: 0.001347
+[2020.02.05-22.08.22:762][270]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.02.05-22.08.22:765][270]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 1.456
+[2020.02.05-22.08.22:765][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.08.25:398][374]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Armour_C
+[2020.02.05-22.08.26:079][401]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Medkit_C
+[2020.02.05-22.08.27:606][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.08.27:607][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.08.27:607][461]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2020.02.05-22.08.27:607][461]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.08.27:651][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-22.08.27:651][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.08.27:714][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.08.27:720][461]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.05-22.08.27:758][462]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.05-22.08.28:331][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.08.28:398][486]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-22.08.28:455][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.08.28:455][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.05-22.08.28:456][486]PIE: New page: PIE session: TestMap (5 Feb 2020 22:08:28)
+[2020.02.05-22.08.28:456][486]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2020.02.05-22.08.28:459][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003275s)
+[2020.02.05-22.08.28:460][486]LogAIModule: Creating AISystem for world TestMap
+[2020.02.05-22.08.28:460][486]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2020.02.05-22.08.28:460][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.004692s)
+[2020.02.05-22.08.28:516][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.02.05-22.08.28:546][486]LogInit: XAudio2 using 'Headphones (2- Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2020.02.05-22.08.28:561][486]LogInit: FAudioDevice initialized.
+[2020.02.05-22.08.28:567][486]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.05-22.08.28:569][486]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.02.05-22.08.28
+[2020.02.05-22.08.28:570][486]LogWorld: Bringing up level for play took: 0.001465
+[2020.02.05-22.08.28:570][486]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.02.05-22.08.28:573][486]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap -0.736
+[2020.02.05-22.08.28:573][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.08.58:408][803]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Armour_C
+[2020.02.05-22.08.58:460][805]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Medkit_C
+[2020.02.05-22.09.27:348][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.09.28:612][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.09.30:014][115]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Armour_C
+[2020.02.05-22.09.30:796][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.09.34:609][297]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Medkit_C
+[2020.02.05-22.09.34:685][300]LogBlueprintUserMessages: [InventoryComponent] New Item:BP_Armour_C
+[2020.02.05-22.09.41:246][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.11.28:303][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.02.05-22.11.28:628][ 25]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap22392B6B44C11E11D70C9BB565B0E908.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap.umap'
+[2020.02.05-22.11.28:672][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap_BuiltData" FILE="../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset" SILENT=true
+[2020.02.05-22.11.28:706][ 25]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap_BuiltData605E1B954DE2AA1BD863F1A8E43C8851.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset'
+[2020.02.05-22.11.31:027][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.05-22.11.31:359][ 89]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap1B46CD1443211016FE270F8669E5D5A2.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap.umap'
+[2020.02.05-22.11.31:411][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap_BuiltData" FILE="../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset" SILENT=true
+[2020.02.05-22.11.31:445][ 89]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap_BuiltDataA1F8BBB04DD2011AD906E79B63853135.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset'
+[2020.02.05-22.11.32:419][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.11.32:420][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.11.32:420][121]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestMap
+[2020.02.05-22.11.32:420][121]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.32:474][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.05-22.11.32:475][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.11.32:539][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.05-22.11.32:547][121]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.02.05-22.11.32:617][122]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.05-22.11.33:758][159]LogSlate: Window 'BP_Medkit' being destroyed
+[2020.02.05-22.11.33:788][159]LogSlate: Window 'BP_Medkit' being destroyed
+[2020.02.05-22.11.33:818][159]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.33:891][159]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:011][159]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:018][159]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:077][159]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:084][159]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:141][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.05-22.11.34:141][159]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:228][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.05-22.11.34:228][159]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:298][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.05-22.11.34:298][159]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.34:378][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.05-22.11.34:378][159]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.02.05-22.11.37:251][250]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.02.05-22.11.37:331][250]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/BP_ConsumableItem803321AD4CC3C5C304C774B6CE694A1E.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/Items/Consumables/BP_ConsumableItem.uasset'
+[2020.02.05-22.11.37:430][250]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/BP_MedkitFF8EDDD142395CEB1F93BD8859EFCEB3.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/Items/Consumables/BP_Medkit.uasset'
+[2020.02.05-22.11.37:539][250]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/BP_HandGunAC8B6531437EC5360B8D299AD98C78D0.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/Items/Equip/BP_HandGun.uasset'
+[2020.02.05-22.12.36:397][159]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD/ItemStackEntryWidget.ItemStackEntryWidget
+[2020.02.05-22.14.30:639][844]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/ItemStackEntryWidget131EC55946D21C4C4A91A292B0B18EE0.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/HUD/ItemStackEntryWidget.uasset'
+[2020.02.05-22.14.52:949][707]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD/InventoryWidget.InventoryWidget
+[2020.02.05-22.15.03:805][ 98]LogEditorViewport: Clicking on Actor (LMB): BP_Armour_C (BP_Armour)
+[2020.02.05-22.15.05:898][162]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.05-22.15.08:047][221]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.05-22.15.08:240][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.02.05-22.15.08:458][221]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap924BB2754D71D72CFF96258EC63180C6.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap.umap'
+[2020.02.05-22.15.08:506][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap_BuiltData" FILE="../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset" SILENT=true
+[2020.02.05-22.15.08:534][221]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/TestMap_BuiltData91B82BC0449AB7FB675D88AF2933C8EC.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/TestMap_BuiltData.uasset'
+[2020.02.05-22.15.10:731][287]LogSavePackage: Moving '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Saved/InventoryWidget79C2FA0048BDC4CA9E21609957E95981.tmp' to '../../../../../../Users/fowke/Documents/1. Uni/Year-2-Seminar-Sheet-Work/Sheet 5/InventorySystem/Content/Blueprints/HUD/InventoryWidget.uasset'
+[2020.02.05-22.16.10:816][753]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.05-22.16.12:147][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.05-22.16.12:211][800]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.05-22.16.12:241][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.02.05-22.16.12:241][800]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.05-22.16.12:246][800]LogPlayLevel: [PlayLevel] Compiling InventoryWidget before play...
+[2020.02.05-22.16.12:470][800]LogPlayLevel: [PlayLevel] Compiling ItemStackEntryWidget before play...
+[2020.02.05-22.16.12:720][800]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.05-22.16.13:562][800]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.841 s
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: 
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: SObjectWidget for 'ItemStackEntryWidget_C /Engine/Transient.World_18:InventoryWidget_C_1.WidgetTree_0.ItemStackEntryWidget_C_5' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: Stack: 
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffced57309e UE4Editor-UMG.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffced3e0746 UE4Editor-UMG.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd0519a29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcf2ef60d5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcf2ef1548 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcf2ef2eb9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd0519a29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd051279ec UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd051167a4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd0519a29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd051169bc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd0519a29a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcf2e7c94e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcf2e6db58 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcf2e718a9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffced4a231b UE4Editor-UMG.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd0801b683 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd07ff69ac UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd07f9f782 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd07f9e8ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcee0f65ff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcee0e3066 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcee0fdaf5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcedbbd9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffcee414b16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ff7d5d67b0a UE4Editor.exe!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ff7d5d7a91c UE4Editor.exe!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ff7d5d7a9fa UE4Editor.exe!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ff7d5d8b92c UE4Editor.exe!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ff7d5d8e60e UE4Editor.exe!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd85ec7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: [Callstack] 0x00007ffd8706ced1 ntdll.dll!UnknownFunction []
+[2020.02.05-22.16.13:562][800]LogOutputDevice: Error: 
+[2020.02.05-22.16.13:569][800]LogStats:                SubmitErrorReport -  0.000 s
