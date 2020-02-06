@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProceduralGeneration.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9C22DDF8-C60C-4174-B838-33A7F29A52C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProceduralGeneration.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProceduralGenerationEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C6FCC877-6A35-49F4-BB4C-096A1D224E43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{F2D22FFB-28DB-4CF4-9F60-090B8AEAC9D3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{A2512A2B-DC7B-40A2-BF7E-ABB51BD395F9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{CC376263-822B-486C-A409-D632CFB3CFB2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{CE187C38-704C-4568-9FB8-EDD44DE736F0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{9773B87F-EBB8-4586-B2AD-DE31B9DCC24F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{5E3B51CE-492A-4E71-B6B6-00FE971E0B6C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{2F69BA5B-D890-4E55-9825-B68F9A1A4534}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{F4C4CBD0-DE6B-4BED-8AC8-38515681063D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\ProceduralGeneration">
+      <UniqueIdentifier>{A5444D1A-ADA9-423D-A5C4-B03FF6024C02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProceduralGeneration\ProceduralGeneration.Build.cs">
+      <Filter>Source\ProceduralGeneration</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProceduralGeneration\ProceduralGeneration.cpp">
+      <Filter>Source\ProceduralGeneration</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralGeneration\ProceduralGeneration.h">
+      <Filter>Source\ProceduralGeneration</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralGeneration\ProceduralGenerationGameModeBase.cpp">
+      <Filter>Source\ProceduralGeneration</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralGeneration\ProceduralGenerationGameModeBase.h">
+      <Filter>Source\ProceduralGeneration</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
